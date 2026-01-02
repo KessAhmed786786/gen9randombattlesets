@@ -1,0 +1,8502 @@
+{
+  "Abomasnow": {
+    "abilities": [
+      "Snow Warning",
+      "Soundproof"
+    ],
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "HP": 90,
+    "Attack": 92,
+    "Defense": 75,
+    "Special Atk": 92,
+    "Special Def": 85,
+    "Speed": 60,
+    "BST": 494
+  },
+  "Alcremie": {
+    "abilities": [
+      "Sweet Veil",
+      "Aroma Veil"
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "HP": 65,
+    "Attack": 60,
+    "Defense": 75,
+    "Special Atk": 110,
+    "Special Def": 121,
+    "Speed": 64,
+    "BST": 495
+  },
+  "Alomomola": {
+    "abilities": [
+      "Healer",
+      "Hydration",
+      "Regenerator"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 165,
+    "Attack": 75,
+    "Defense": 80,
+    "Special Atk": 40,
+    "Special Def": 45,
+    "Speed": 65,
+    "BST": 470
+  },
+  "Altaria": {
+    "abilities": [
+      "Natural Cure",
+      "Cloud Nine"
+    ],
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "HP": 75,
+    "Attack": 70,
+    "Defense": 90,
+    "Special Atk": 70,
+    "Special Def": 105,
+    "Speed": 80,
+    "BST": 490
+  },
+  "Ambipom": {
+    "abilities": [
+      "Technician",
+      "Pickup",
+      "Skill Link"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 66,
+    "Special Atk": 60,
+    "Special Def": 66,
+    "Speed": 115,
+    "BST": 482
+  },
+  "Amoonguss": {
+    "abilities": [
+      "Effect Spore",
+      "Regenerator"
+    ],
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "HP": 114,
+    "Attack": 85,
+    "Defense": 70,
+    "Special Atk": 85,
+    "Special Def": 80,
+    "Speed": 30,
+    "BST": 464
+  },
+  "Ampharos": {
+    "abilities": [
+      "Static",
+      "Plus"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 90,
+    "Attack": 75,
+    "Defense": 85,
+    "Special Atk": 115,
+    "Special Def": 90,
+    "Speed": 55,
+    "BST": 510
+  },
+  "Annihilape": {
+    "abilities": [
+      "Vital Spirit",
+      "Defiant",
+      "Inner Focus"
+    ],
+    "types": [
+      "Fighting",
+      "Ghost"
+    ],
+    "HP": 110,
+    "Attack": 115,
+    "Defense": 80,
+    "Special Atk": 50,
+    "Special Def": 90,
+    "Speed": 90,
+    "BST": 535
+  },
+  "Appletun": {
+    "abilities": [
+      "Ripen",
+      "Thick Fat",
+      "Gluttony"
+    ],
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "HP": 110,
+    "Attack": 85,
+    "Defense": 80,
+    "Special Atk": 100,
+    "Special Def": 80,
+    "Speed": 30,
+    "BST": 485
+  },
+  "Araquanid": {
+    "abilities": [
+      "Water Bubble",
+      "Water Absorb"
+    ],
+    "types": [
+      "Water",
+      "Bug"
+    ],
+    "HP": 68,
+    "Attack": 70,
+    "Defense": 92,
+    "Special Atk": 50,
+    "Special Def": 132,
+    "Speed": 42,
+    "BST": 454
+  },
+  "Arbok": {
+    "abilities": [
+      "Intimidate",
+      "Unnerve",
+      "Shed Skin"
+    ],
+    "types": [
+      "Poison"
+    ],
+    "HP": 60,
+    "Attack": 95,
+    "Defense": 69,
+    "Special Atk": 65,
+    "Special Def": 79,
+    "Speed": 80,
+    "BST": 448
+  },
+  "Arboliva": {
+    "abilities": [
+      "Seed Sower",
+      "Harvest"
+    ],
+    "types": [
+      "Grass",
+      "Normal"
+    ],
+    "HP": 78,
+    "Attack": 69,
+    "Defense": 90,
+    "Special Atk": 125,
+    "Special Def": 109,
+    "Speed": 39,
+    "BST": 510
+  },
+  "Arcanine": {
+    "abilities": [
+      "Intimidate",
+      "Justified",
+      "Flash Fire"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "HP": 90,
+    "Attack": 110,
+    "Defense": 80,
+    "Special Atk": 100,
+    "Special Def": 80,
+    "Speed": 95,
+    "BST": 555
+  },
+  "Arcanine-Hisui": {
+    "abilities": [
+      "Intimidate",
+      "Rock Head",
+      "Flash Fire"
+    ],
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "HP": 95,
+    "Attack": 115,
+    "Defense": 80,
+    "Special Atk": 95,
+    "Special Def": 80,
+    "Speed": 90,
+    "BST": 555
+  },
+  "Arceus": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Bug": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Bug"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Dark": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Dark"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Dragon": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Electric": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Fairy": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Fighting": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Fire": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Flying": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Flying"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Ghost": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Ghost"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Grass": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Ground": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Ground"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Ice": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Poison": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Poison"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Psychic": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Rock": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Steel": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Steel"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Arceus-Water": {
+    "abilities": [
+      "Multitype"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 120,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 720
+  },
+  "Archaludon": {
+    "abilities": [
+      "Stamina",
+      "Stalwart",
+      "Sturdy"
+    ],
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "HP": 90,
+    "Attack": 105,
+    "Defense": 130,
+    "Special Atk": 125,
+    "Special Def": 65,
+    "Speed": 85,
+    "BST": 600
+  },
+  "Ariados": {
+    "abilities": [
+      "Swarm",
+      "Sniper",
+      "Insomnia"
+    ],
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "HP": 70,
+    "Attack": 90,
+    "Defense": 70,
+    "Special Atk": 60,
+    "Special Def": 70,
+    "Speed": 40,
+    "BST": 400
+  },
+  "Armarouge": {
+    "abilities": [
+      "Flash Fire",
+      "Weak Armor"
+    ],
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "HP": 85,
+    "Attack": 60,
+    "Defense": 100,
+    "Special Atk": 125,
+    "Special Def": 80,
+    "Speed": 75,
+    "BST": 525
+  },
+  "Articuno": {
+    "abilities": [
+      "Pressure",
+      "Snow Cloak"
+    ],
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "HP": 90,
+    "Attack": 85,
+    "Defense": 100,
+    "Special Atk": 95,
+    "Special Def": 125,
+    "Speed": 85,
+    "BST": 580
+  },
+  "Articuno-Galar": {
+    "abilities": [
+      "Competitive"
+    ],
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "HP": 90,
+    "Attack": 85,
+    "Defense": 85,
+    "Special Atk": 125,
+    "Special Def": 100,
+    "Speed": 95,
+    "BST": 580
+  },
+  "Avalugg": {
+    "abilities": [
+      "Own Tempo",
+      "Sturdy",
+      "Ice Body"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 95,
+    "Attack": 117,
+    "Defense": 184,
+    "Special Atk": 44,
+    "Special Def": 46,
+    "Speed": 28,
+    "BST": 514
+  },
+  "Avalugg-Hisui": {
+    "abilities": [
+      "Strong Jaw",
+      "Sturdy",
+      "Ice Body"
+    ],
+    "types": [
+      "Ice",
+      "Rock"
+    ],
+    "HP": 95,
+    "Attack": 127,
+    "Defense": 184,
+    "Special Atk": 34,
+    "Special Def": 36,
+    "Speed": 38,
+    "BST": 514
+  },
+  "Azelf": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 75,
+    "Attack": 125,
+    "Defense": 70,
+    "Special Atk": 125,
+    "Special Def": 70,
+    "Speed": 115,
+    "BST": 580
+  },
+  "Azumarill": {
+    "abilities": [
+      "Thick Fat",
+      "Sap Sipper",
+      "Huge Power"
+    ],
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "HP": 100,
+    "Attack": 50,
+    "Defense": 80,
+    "Special Atk": 60,
+    "Special Def": 80,
+    "Speed": 50,
+    "BST": 420
+  },
+  "Banette": {
+    "abilities": [
+      "Insomnia",
+      "Cursed Body",
+      "Frisk"
+    ],
+    "types": [
+      "Ghost"
+    ],
+    "HP": 64,
+    "Attack": 115,
+    "Defense": 65,
+    "Special Atk": 83,
+    "Special Def": 63,
+    "Speed": 65,
+    "BST": 455
+  },
+  "Barraskewda": {
+    "abilities": [
+      "Swift Swim",
+      "Propeller Tail"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 61,
+    "Attack": 123,
+    "Defense": 60,
+    "Special Atk": 60,
+    "Special Def": 50,
+    "Speed": 136,
+    "BST": 490
+  },
+  "Basculegion": {
+    "abilities": [
+      "Swift Swim",
+      "Mold Breaker",
+      "Adaptability"
+    ],
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "HP": 120,
+    "Attack": 112,
+    "Defense": 65,
+    "Special Atk": 80,
+    "Special Def": 75,
+    "Speed": 78,
+    "BST": 530
+  },
+  "Basculegion-F": {
+    "abilities": [
+      "Swift Swim",
+      "Mold Breaker",
+      "Adaptability"
+    ],
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "HP": 120,
+    "Attack": 92,
+    "Defense": 65,
+    "Special Atk": 100,
+    "Special Def": 75,
+    "Speed": 78,
+    "BST": 530
+  },
+  "Basculin": {
+    "abilities": [
+      "Reckless",
+      "Mold Breaker",
+      "Adaptability"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 70,
+    "Attack": 92,
+    "Defense": 65,
+    "Special Atk": 80,
+    "Special Def": 55,
+    "Speed": 98,
+    "BST": 460
+  },
+  "Bastiodon": {
+    "abilities": [
+      "Sturdy",
+      "Soundproof"
+    ],
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "HP": 60,
+    "Attack": 52,
+    "Defense": 168,
+    "Special Atk": 47,
+    "Special Def": 138,
+    "Speed": 30,
+    "BST": 495
+  },
+  "Baxcalibur": {
+    "abilities": [
+      "Thermal Exchange",
+      "Ice Body"
+    ],
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "HP": 115,
+    "Attack": 145,
+    "Defense": 92,
+    "Special Atk": 75,
+    "Special Def": 86,
+    "Speed": 87,
+    "BST": 600
+  },
+  "Beartic": {
+    "abilities": [
+      "Snow Cloak",
+      "Swift Swim",
+      "Slush Rush"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 95,
+    "Attack": 135,
+    "Defense": 80,
+    "Special Atk": 70,
+    "Special Def": 80,
+    "Speed": 50,
+    "BST": 510
+  },
+  "Bellibolt": {
+    "abilities": [
+      "Electromorphosis",
+      "Damp",
+      "Static"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 109,
+    "Attack": 64,
+    "Defense": 91,
+    "Special Atk": 103,
+    "Special Def": 83,
+    "Speed": 45,
+    "BST": 495
+  },
+  "Bellossom": {
+    "abilities": [
+      "Chlorophyll",
+      "Healer"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 95,
+    "Special Atk": 90,
+    "Special Def": 100,
+    "Speed": 50,
+    "BST": 490
+  },
+  "Bisharp": {
+    "abilities": [
+      "Defiant",
+      "Pressure",
+      "Inner Focus"
+    ],
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "HP": 65,
+    "Attack": 125,
+    "Defense": 100,
+    "Special Atk": 60,
+    "Special Def": 70,
+    "Speed": 70,
+    "BST": 490
+  },
+  "Blastoise": {
+    "abilities": [
+      "Torrent",
+      "Rain Dish"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 79,
+    "Attack": 83,
+    "Defense": 100,
+    "Special Atk": 85,
+    "Special Def": 105,
+    "Speed": 78,
+    "BST": 530
+  },
+  "Blaziken": {
+    "abilities": [
+      "Blaze",
+      "Speed Boost"
+    ],
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 70,
+    "Special Atk": 110,
+    "Special Def": 70,
+    "Speed": 80,
+    "BST": 530
+  },
+  "Blissey": {
+    "abilities": [
+      "Natural Cure",
+      "Serene Grace",
+      "Healer"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 255,
+    "Attack": 10,
+    "Defense": 10,
+    "Special Atk": 75,
+    "Special Def": 135,
+    "Speed": 55,
+    "BST": 540
+  },
+  "Bombirdier": {
+    "abilities": [
+      "Big Pecks",
+      "Rocky Payload",
+      "Keen Eye"
+    ],
+    "types": [
+      "Flying",
+      "Dark"
+    ],
+    "HP": 70,
+    "Attack": 103,
+    "Defense": 85,
+    "Special Atk": 60,
+    "Special Def": 85,
+    "Speed": 82,
+    "BST": 485
+  },
+  "Brambleghast": {
+    "abilities": [
+      "Wind Rider",
+      "Infiltrator"
+    ],
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "HP": 55,
+    "Attack": 115,
+    "Defense": 70,
+    "Special Atk": 80,
+    "Special Def": 70,
+    "Speed": 90,
+    "BST": 480
+  },
+  "Braviary": {
+    "abilities": [
+      "Keen Eye",
+      "Sheer Force",
+      "Defiant"
+    ],
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "HP": 100,
+    "Attack": 123,
+    "Defense": 75,
+    "Special Atk": 57,
+    "Special Def": 75,
+    "Speed": 80,
+    "BST": 510
+  },
+  "Braviary-Hisui": {
+    "abilities": [
+      "Keen Eye",
+      "Tinted Lens",
+      "Sheer Force"
+    ],
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "HP": 110,
+    "Attack": 83,
+    "Defense": 70,
+    "Special Atk": 112,
+    "Special Def": 70,
+    "Speed": 65,
+    "BST": 510
+  },
+  "Breloom": {
+    "abilities": [
+      "Effect Spore",
+      "Technician",
+      "Poison Heal"
+    ],
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "HP": 60,
+    "Attack": 130,
+    "Defense": 80,
+    "Special Atk": 60,
+    "Special Def": 60,
+    "Speed": 70,
+    "BST": 460
+  },
+  "Bronzong": {
+    "abilities": [
+      "Levitate",
+      "Heavy Metal",
+      "Heatproof"
+    ],
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "HP": 67,
+    "Attack": 89,
+    "Defense": 116,
+    "Special Atk": 79,
+    "Special Def": 116,
+    "Speed": 33,
+    "BST": 500
+  },
+  "Brute-Bonnet": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "HP": 111,
+    "Attack": 127,
+    "Defense": 99,
+    "Special Atk": 79,
+    "Special Def": 99,
+    "Speed": 55,
+    "BST": 570
+  },
+  "Bruxish": {
+    "abilities": [
+      "Dazzling",
+      "Wonder Skin",
+      "Strong Jaw"
+    ],
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "HP": 68,
+    "Attack": 105,
+    "Defense": 70,
+    "Special Atk": 70,
+    "Special Def": 70,
+    "Speed": 92,
+    "BST": 475
+  },
+  "Cacturne": {
+    "abilities": [
+      "Sand Veil",
+      "Water Absorb"
+    ],
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "HP": 70,
+    "Attack": 115,
+    "Defense": 60,
+    "Special Atk": 115,
+    "Special Def": 60,
+    "Speed": 55,
+    "BST": 475
+  },
+  "Calyrex": {
+    "abilities": [
+      "Unnerve"
+    ],
+    "types": [
+      "Psychic",
+      "Grass"
+    ],
+    "HP": 100,
+    "Attack": 80,
+    "Defense": 80,
+    "Special Atk": 80,
+    "Special Def": 80,
+    "Speed": 80,
+    "BST": 500
+  },
+  "Calyrex-Ice": {
+    "abilities": [
+      "As One"
+    ],
+    "types": [
+      "Psychic",
+      "Ice"
+    ],
+    "HP": 100,
+    "Attack": 165,
+    "Defense": 150,
+    "Special Atk": 85,
+    "Special Def": 130,
+    "Speed": 50,
+    "BST": 680
+  },
+  "Calyrex-Shadow": {
+    "abilities": [
+      "As One"
+    ],
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "HP": 100,
+    "Attack": 85,
+    "Defense": 80,
+    "Special Atk": 165,
+    "Special Def": 100,
+    "Speed": 150,
+    "BST": 680
+  },
+  "Camerupt": {
+    "abilities": [
+      "Magma Armor",
+      "Anger Point",
+      "Solid Rock"
+    ],
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "HP": 70,
+    "Attack": 100,
+    "Defense": 70,
+    "Special Atk": 115,
+    "Special Def": 75,
+    "Speed": 40,
+    "BST": 470
+  },
+  "Carbink": {
+    "abilities": [
+      "Clear Body",
+      "Sturdy"
+    ],
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 150,
+    "Special Atk": 50,
+    "Special Def": 150,
+    "Speed": 50,
+    "BST": 500
+  },
+  "Ceruledge": {
+    "abilities": [
+      "Flash Fire",
+      "Weak Armor"
+    ],
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "HP": 75,
+    "Attack": 125,
+    "Defense": 80,
+    "Special Atk": 60,
+    "Special Def": 100,
+    "Speed": 85,
+    "BST": 525
+  },
+  "Cetitan": {
+    "abilities": [
+      "Thick Fat",
+      "Sheer Force",
+      "Slush Rush"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 170,
+    "Attack": 113,
+    "Defense": 65,
+    "Special Atk": 45,
+    "Special Def": 55,
+    "Speed": 73,
+    "BST": 521
+  },
+  "Chandelure": {
+    "abilities": [
+      "Flash Fire",
+      "Infiltrator",
+      "Flame Body"
+    ],
+    "types": [
+      "Ghost",
+      "Fire"
+    ],
+    "HP": 60,
+    "Attack": 55,
+    "Defense": 90,
+    "Special Atk": 145,
+    "Special Def": 90,
+    "Speed": 80,
+    "BST": 520
+  },
+  "Chansey": {
+    "abilities": [
+      "Natural Cure",
+      "Serene Grace",
+      "Healer"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 250,
+    "Attack": 5,
+    "Defense": 5,
+    "Special Atk": 35,
+    "Special Def": 105,
+    "Speed": 50,
+    "BST": 450
+  },
+  "Charizard": {
+    "abilities": [
+      "Blaze",
+      "Solar Power"
+    ],
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "HP": 78,
+    "Attack": 84,
+    "Defense": 78,
+    "Special Atk": 109,
+    "Special Def": 85,
+    "Speed": 100,
+    "BST": 534
+  },
+  "Chesnaught": {
+    "abilities": [
+      "Overgrow",
+      "Bulletproof"
+    ],
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "HP": 88,
+    "Attack": 107,
+    "Defense": 122,
+    "Special Atk": 74,
+    "Special Def": 75,
+    "Speed": 64,
+    "BST": 530
+  },
+  "Chi-Yu": {
+    "abilities": [
+      "Beads of Ruin"
+    ],
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "HP": 55,
+    "Attack": 80,
+    "Defense": 80,
+    "Special Atk": 135,
+    "Special Def": 120,
+    "Speed": 100,
+    "BST": 570
+  },
+  "Chien-Pao": {
+    "abilities": [
+      "Sword of Ruin"
+    ],
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 80,
+    "Special Atk": 90,
+    "Special Def": 65,
+    "Speed": 135,
+    "BST": 570
+  },
+  "Chimecho": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 75,
+    "Attack": 50,
+    "Defense": 80,
+    "Special Atk": 95,
+    "Special Def": 90,
+    "Speed": 65,
+    "BST": 455
+  },
+  "Cinccino": {
+    "abilities": [
+      "Cute Charm",
+      "Technician",
+      "Skill Link"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 75,
+    "Attack": 95,
+    "Defense": 60,
+    "Special Atk": 65,
+    "Special Def": 60,
+    "Speed": 115,
+    "BST": 470
+  },
+  "Cinderace": {
+    "abilities": [
+      "Blaze",
+      "Libero"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "HP": 80,
+    "Attack": 116,
+    "Defense": 75,
+    "Special Atk": 65,
+    "Special Def": 75,
+    "Speed": 119,
+    "BST": 530
+  },
+  "Clawitzer": {
+    "abilities": [
+      "Mega Launcher"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 71,
+    "Attack": 73,
+    "Defense": 88,
+    "Special Atk": 120,
+    "Special Def": 89,
+    "Speed": 59,
+    "BST": 500
+  },
+  "Clefable": {
+    "abilities": [
+      "Cute Charm",
+      "Unaware",
+      "Magic Guard"
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "HP": 95,
+    "Attack": 70,
+    "Defense": 73,
+    "Special Atk": 95,
+    "Special Def": 90,
+    "Speed": 60,
+    "BST": 483
+  },
+  "Clodsire": {
+    "abilities": [
+      "Poison Point",
+      "Unaware",
+      "Water Absorb"
+    ],
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "HP": 130,
+    "Attack": 75,
+    "Defense": 60,
+    "Special Atk": 45,
+    "Special Def": 100,
+    "Speed": 20,
+    "BST": 430
+  },
+  "Cloyster": {
+    "abilities": [
+      "Shell Armor",
+      "Overcoat",
+      "Skill Link"
+    ],
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "HP": 50,
+    "Attack": 95,
+    "Defense": 180,
+    "Special Atk": 85,
+    "Special Def": 45,
+    "Speed": 70,
+    "BST": 525
+  },
+  "Coalossal": {
+    "abilities": [
+      "Steam Engine",
+      "Flash Fire",
+      "Flame Body"
+    ],
+    "types": [
+      "Rock",
+      "Fire"
+    ],
+    "HP": 110,
+    "Attack": 80,
+    "Defense": 120,
+    "Special Atk": 80,
+    "Special Def": 90,
+    "Speed": 30,
+    "BST": 510
+  },
+  "Cobalion": {
+    "abilities": [
+      "Justified"
+    ],
+    "types": [
+      "Steel",
+      "Fighting"
+    ],
+    "HP": 91,
+    "Attack": 90,
+    "Defense": 129,
+    "Special Atk": 90,
+    "Special Def": 72,
+    "Speed": 108,
+    "BST": 580
+  },
+  "Comfey": {
+    "abilities": [
+      "Flower Veil",
+      "Natural Cure",
+      "Triage"
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "HP": 51,
+    "Attack": 52,
+    "Defense": 90,
+    "Special Atk": 82,
+    "Special Def": 110,
+    "Speed": 100,
+    "BST": 485
+  },
+  "Conkeldurr": {
+    "abilities": [
+      "Guts",
+      "Iron Fist",
+      "Sheer Force"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 105,
+    "Attack": 140,
+    "Defense": 95,
+    "Special Atk": 55,
+    "Special Def": 65,
+    "Speed": 55,
+    "BST": 515
+  },
+  "Copperajah": {
+    "abilities": [
+      "Sheer Force",
+      "Heavy Metal"
+    ],
+    "types": [
+      "Steel"
+    ],
+    "HP": 122,
+    "Attack": 130,
+    "Defense": 69,
+    "Special Atk": 80,
+    "Special Def": 69,
+    "Speed": 30,
+    "BST": 500
+  },
+  "Corviknight": {
+    "abilities": [
+      "Pressure",
+      "Mirror Armor",
+      "Unnerve"
+    ],
+    "types": [
+      "Flying",
+      "Steel"
+    ],
+    "HP": 98,
+    "Attack": 87,
+    "Defense": 105,
+    "Special Atk": 53,
+    "Special Def": 85,
+    "Speed": 67,
+    "BST": 495
+  },
+  "Crabominable": {
+    "abilities": [
+      "Hyper Cutter",
+      "Anger Point",
+      "Iron Fist"
+    ],
+    "types": [
+      "Fighting",
+      "Ice"
+    ],
+    "HP": 97,
+    "Attack": 132,
+    "Defense": 77,
+    "Special Atk": 62,
+    "Special Def": 67,
+    "Speed": 43,
+    "BST": 478
+  },
+  "Cramorant": {
+    "abilities": [
+      "Gulp Missile"
+    ],
+    "types": [
+      "Flying",
+      "Water"
+    ],
+    "HP": 70,
+    "Attack": 85,
+    "Defense": 55,
+    "Special Atk": 85,
+    "Special Def": 95,
+    "Speed": 85,
+    "BST": 475
+  },
+  "Crawdaunt": {
+    "abilities": [
+      "Hyper Cutter",
+      "Adaptability",
+      "Shell Armor"
+    ],
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "HP": 63,
+    "Attack": 120,
+    "Defense": 85,
+    "Special Atk": 90,
+    "Special Def": 55,
+    "Speed": 55,
+    "BST": 468
+  },
+  "Cresselia": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 120,
+    "Attack": 70,
+    "Defense": 110,
+    "Special Atk": 75,
+    "Special Def": 120,
+    "Speed": 85,
+    "BST": 580
+  },
+  "Cryogonal": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 80,
+    "Attack": 50,
+    "Defense": 50,
+    "Special Atk": 95,
+    "Special Def": 135,
+    "Speed": 105,
+    "BST": 515
+  },
+  "Cyclizar": {
+    "abilities": [
+      "Shed Skin",
+      "Regenerator"
+    ],
+    "types": [
+      "Dragon",
+      "Normal"
+    ],
+    "HP": 70,
+    "Attack": 95,
+    "Defense": 65,
+    "Special Atk": 85,
+    "Special Def": 65,
+    "Speed": 121,
+    "BST": 501
+  },
+  "Dachsbun": {
+    "abilities": [
+      "Well-Baked Body",
+      "Aroma Veil"
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "HP": 57,
+    "Attack": 80,
+    "Defense": 115,
+    "Special Atk": 50,
+    "Special Def": 80,
+    "Speed": 95,
+    "BST": 477
+  },
+  "Darkrai": {
+    "abilities": [
+      "Bad Dreams"
+    ],
+    "types": [
+      "Dark"
+    ],
+    "HP": 70,
+    "Attack": 90,
+    "Defense": 90,
+    "Special Atk": 135,
+    "Special Def": 90,
+    "Speed": 125,
+    "BST": 600
+  },
+  "Decidueye": {
+    "abilities": [
+      "Overgrow",
+      "Long Reach"
+    ],
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "HP": 78,
+    "Attack": 107,
+    "Defense": 75,
+    "Special Atk": 100,
+    "Special Def": 100,
+    "Speed": 70,
+    "BST": 530
+  },
+  "Decidueye-Hisui": {
+    "abilities": [
+      "Overgrow",
+      "Scrappy"
+    ],
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "HP": 88,
+    "Attack": 112,
+    "Defense": 80,
+    "Special Atk": 95,
+    "Special Def": 95,
+    "Speed": 60,
+    "BST": 530
+  },
+  "Dedenne": {
+    "abilities": [
+      "Cheek Pouch",
+      "Plus",
+      "Pickup"
+    ],
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
+    "HP": 67,
+    "Attack": 58,
+    "Defense": 57,
+    "Special Atk": 81,
+    "Special Def": 67,
+    "Speed": 101,
+    "BST": 431
+  },
+  "Delibird": {
+    "abilities": [
+      "Vital Spirit",
+      "Insomnia",
+      "Hustle"
+    ],
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "HP": 45,
+    "Attack": 55,
+    "Defense": 45,
+    "Special Atk": 65,
+    "Special Def": 45,
+    "Speed": 75,
+    "BST": 330
+  },
+  "Delphox": {
+    "abilities": [
+      "Blaze",
+      "Magician"
+    ],
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "HP": 75,
+    "Attack": 69,
+    "Defense": 72,
+    "Special Atk": 114,
+    "Special Def": 100,
+    "Speed": 104,
+    "BST": 534
+  },
+  "Deoxys": {
+    "abilities": [
+      "Pressure"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 50,
+    "Attack": 150,
+    "Defense": 50,
+    "Special Atk": 150,
+    "Special Def": 50,
+    "Speed": 150,
+    "BST": 600
+  },
+  "Deoxys-Attack": {
+    "abilities": [
+      "Pressure"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 50,
+    "Attack": 180,
+    "Defense": 20,
+    "Special Atk": 180,
+    "Special Def": 20,
+    "Speed": 150,
+    "BST": 600
+  },
+  "Deoxys-Defense": {
+    "abilities": [
+      "Pressure"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 50,
+    "Attack": 70,
+    "Defense": 160,
+    "Special Atk": 70,
+    "Special Def": 160,
+    "Speed": 90,
+    "BST": 600
+  },
+  "Deoxys-Speed": {
+    "abilities": [
+      "Pressure"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 50,
+    "Attack": 95,
+    "Defense": 90,
+    "Special Atk": 95,
+    "Special Def": 90,
+    "Speed": 180,
+    "BST": 600
+  },
+  "Dewgong": {
+    "abilities": [
+      "Thick Fat",
+      "Ice Body",
+      "Hydration"
+    ],
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "HP": 90,
+    "Attack": 70,
+    "Defense": 80,
+    "Special Atk": 70,
+    "Special Def": 95,
+    "Speed": 70,
+    "BST": 475
+  },
+  "Dialga": {
+    "abilities": [
+      "Pressure",
+      "Telepathy"
+    ],
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "HP": 100,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 150,
+    "Special Def": 100,
+    "Speed": 90,
+    "BST": 680
+  },
+  "Dialga-Origin": {
+    "abilities": [
+      "Pressure",
+      "Telepathy"
+    ],
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 120,
+    "Special Atk": 150,
+    "Special Def": 120,
+    "Speed": 90,
+    "BST": 680
+  },
+  "Diancie": {
+    "abilities": [
+      "Clear Body"
+    ],
+    "types": [
+      "Rock",
+      "Fairy"
+    ],
+    "HP": 50,
+    "Attack": 100,
+    "Defense": 150,
+    "Special Atk": 100,
+    "Special Def": 150,
+    "Speed": 50,
+    "BST": 600
+  },
+  "Dipplin": {
+    "abilities": [
+      "Supersweet Syrup",
+      "Sticky Hold",
+      "Gluttony"
+    ],
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 110,
+    "Special Atk": 95,
+    "Special Def": 80,
+    "Speed": 40,
+    "BST": 485
+  },
+  "Ditto": {
+    "abilities": [
+      "Limber",
+      "Imposter"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 48,
+    "Attack": 48,
+    "Defense": 48,
+    "Special Atk": 48,
+    "Special Def": 48,
+    "Speed": 48,
+    "BST": 288
+  },
+  "Dodrio": {
+    "abilities": [
+      "Run Away",
+      "Early Bird",
+      "Tangled Feet"
+    ],
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "HP": 60,
+    "Attack": 110,
+    "Defense": 70,
+    "Special Atk": 60,
+    "Special Def": 60,
+    "Speed": 110,
+    "BST": 470
+  },
+  "Dondozo": {
+    "abilities": [
+      "Unaware",
+      "Water Veil",
+      "Oblivious"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 150,
+    "Attack": 100,
+    "Defense": 115,
+    "Special Atk": 65,
+    "Special Def": 65,
+    "Speed": 35,
+    "BST": 530
+  },
+  "Donphan": {
+    "abilities": [
+      "Sturdy",
+      "Sand Veil"
+    ],
+    "types": [
+      "Ground"
+    ],
+    "HP": 90,
+    "Attack": 120,
+    "Defense": 120,
+    "Special Atk": 60,
+    "Special Def": 60,
+    "Speed": 50,
+    "BST": 500
+  },
+  "Dragalge": {
+    "abilities": [
+      "Poison Point",
+      "Adaptability",
+      "Poison Touch"
+    ],
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "HP": 65,
+    "Attack": 75,
+    "Defense": 90,
+    "Special Atk": 97,
+    "Special Def": 123,
+    "Speed": 44,
+    "BST": 494
+  },
+  "Dragapult": {
+    "abilities": [
+      "Clear Body",
+      "Cursed Body",
+      "Infiltrator"
+    ],
+    "types": [
+      "Dragon",
+      "Ghost"
+    ],
+    "HP": 88,
+    "Attack": 120,
+    "Defense": 75,
+    "Special Atk": 100,
+    "Special Def": 75,
+    "Speed": 142,
+    "BST": 600
+  },
+  "Dragonite": {
+    "abilities": [
+      "Inner Focus",
+      "Multiscale"
+    ],
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "HP": 91,
+    "Attack": 134,
+    "Defense": 95,
+    "Special Atk": 100,
+    "Special Def": 100,
+    "Speed": 80,
+    "BST": 600
+  },
+  "Drednaw": {
+    "abilities": [
+      "Strong Jaw",
+      "Swift Swim",
+      "Shell Armor"
+    ],
+    "types": [
+      "Water",
+      "Rock"
+    ],
+    "HP": 90,
+    "Attack": 115,
+    "Defense": 90,
+    "Special Atk": 48,
+    "Special Def": 68,
+    "Speed": 74,
+    "BST": 485
+  },
+  "Drifblim": {
+    "abilities": [
+      "Aftermath",
+      "Flare Boost",
+      "Unburden"
+    ],
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "HP": 150,
+    "Attack": 80,
+    "Defense": 44,
+    "Special Atk": 90,
+    "Special Def": 54,
+    "Speed": 80,
+    "BST": 498
+  },
+  "Dudunsparce": {
+    "abilities": [
+      "Serene Grace",
+      "Run Away",
+      "Rattled"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 125,
+    "Attack": 100,
+    "Defense": 80,
+    "Special Atk": 85,
+    "Special Def": 75,
+    "Speed": 55,
+    "BST": 520
+  },
+  "Dugtrio": {
+    "abilities": [
+      "Sand Veil",
+      "Sand Force",
+      "Arena Trap"
+    ],
+    "types": [
+      "Ground"
+    ],
+    "HP": 35,
+    "Attack": 100,
+    "Defense": 50,
+    "Special Atk": 50,
+    "Special Def": 70,
+    "Speed": 120,
+    "BST": 425
+  },
+  "Dugtrio-Alola": {
+    "abilities": [
+      "Sand Veil",
+      "Sand Force",
+      "Arena Trap"
+    ],
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "HP": 35,
+    "Attack": 100,
+    "Defense": 60,
+    "Special Atk": 50,
+    "Special Def": 70,
+    "Speed": 110,
+    "BST": 425
+  },
+  "Dunsparce": {
+    "abilities": [
+      "Serene Grace",
+      "Run Away",
+      "Rattled"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 100,
+    "Attack": 70,
+    "Defense": 70,
+    "Special Atk": 65,
+    "Special Def": 65,
+    "Speed": 45,
+    "BST": 415
+  },
+  "Duraludon": {
+    "abilities": [
+      "Light Metal",
+      "Stalwart",
+      "Heavy Metal"
+    ],
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "HP": 70,
+    "Attack": 95,
+    "Defense": 115,
+    "Special Atk": 120,
+    "Special Def": 50,
+    "Speed": 85,
+    "BST": 535
+  },
+  "Dusknoir": {
+    "abilities": [
+      "Pressure",
+      "Frisk"
+    ],
+    "types": [
+      "Ghost"
+    ],
+    "HP": 45,
+    "Attack": 100,
+    "Defense": 135,
+    "Special Atk": 65,
+    "Special Def": 135,
+    "Speed": 45,
+    "BST": 525
+  },
+  "Eelektross": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 85,
+    "Attack": 115,
+    "Defense": 80,
+    "Special Atk": 105,
+    "Special Def": 80,
+    "Speed": 50,
+    "BST": 515
+  },
+  "Eiscue": {
+    "abilities": [
+      "Ice Face"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 110,
+    "Special Atk": 65,
+    "Special Def": 90,
+    "Speed": 50,
+    "BST": 470
+  },
+  "Electivire": {
+    "abilities": [
+      "Motor Drive",
+      "Vital Spirit"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 75,
+    "Attack": 123,
+    "Defense": 67,
+    "Special Atk": 95,
+    "Special Def": 85,
+    "Speed": 95,
+    "BST": 540
+  },
+  "Electrode": {
+    "abilities": [
+      "Soundproof",
+      "Aftermath",
+      "Static"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 70,
+    "Special Atk": 80,
+    "Special Def": 80,
+    "Speed": 150,
+    "BST": 490
+  },
+  "Electrode-Hisui": {
+    "abilities": [
+      "Soundproof",
+      "Aftermath",
+      "Static"
+    ],
+    "types": [
+      "Electric",
+      "Grass"
+    ],
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 70,
+    "Special Atk": 80,
+    "Special Def": 80,
+    "Speed": 150,
+    "BST": 490
+  },
+  "Emboar": {
+    "abilities": [
+      "Blaze",
+      "Reckless"
+    ],
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "HP": 110,
+    "Attack": 123,
+    "Defense": 65,
+    "Special Atk": 100,
+    "Special Def": 65,
+    "Speed": 65,
+    "BST": 528
+  },
+  "Empoleon": {
+    "abilities": [
+      "Torrent",
+      "Competitive"
+    ],
+    "types": [
+      "Water",
+      "Steel"
+    ],
+    "HP": 84,
+    "Attack": 86,
+    "Defense": 88,
+    "Special Atk": 111,
+    "Special Def": 101,
+    "Speed": 60,
+    "BST": 530
+  },
+  "Enamorus": {
+    "abilities": [
+      "Cute Charm",
+      "Contrary"
+    ],
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "HP": 74,
+    "Attack": 115,
+    "Defense": 70,
+    "Special Atk": 135,
+    "Special Def": 80,
+    "Speed": 106,
+    "BST": 580
+  },
+  "Enamorus-Therian": {
+    "abilities": [
+      "Overcoat"
+    ],
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "HP": 74,
+    "Attack": 115,
+    "Defense": 110,
+    "Special Atk": 135,
+    "Special Def": 100,
+    "Speed": 46,
+    "BST": 580
+  },
+  "Entei": {
+    "abilities": [
+      "Pressure",
+      "Inner Focus"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "HP": 115,
+    "Attack": 115,
+    "Defense": 85,
+    "Special Atk": 90,
+    "Special Def": 75,
+    "Speed": 100,
+    "BST": 580
+  },
+  "Espathra": {
+    "abilities": [
+      "Opportunist",
+      "Speed Boost",
+      "Frisk"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 95,
+    "Attack": 60,
+    "Defense": 60,
+    "Special Atk": 101,
+    "Special Def": 60,
+    "Speed": 105,
+    "BST": 481
+  },
+  "Espeon": {
+    "abilities": [
+      "Synchronize",
+      "Magic Bounce"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 60,
+    "Special Atk": 130,
+    "Special Def": 95,
+    "Speed": 110,
+    "BST": 525
+  },
+  "Eternatus": {
+    "abilities": [
+      "Pressure"
+    ],
+    "types": [
+      "Poison",
+      "Dragon"
+    ],
+    "HP": 140,
+    "Attack": 85,
+    "Defense": 95,
+    "Special Atk": 145,
+    "Special Def": 95,
+    "Speed": 130,
+    "BST": 690
+  },
+  "Excadrill": {
+    "abilities": [
+      "Sand Rush",
+      "Mold Breaker",
+      "Sand Force"
+    ],
+    "types": [
+      "Steel",
+      "Ground"
+    ],
+    "HP": 110,
+    "Attack": 125,
+    "Defense": 60,
+    "Special Atk": 50,
+    "Special Def": 65,
+    "Speed": 88,
+    "BST": 498
+  },
+  "Exeggutor": {
+    "abilities": [
+      "Chlorophyll",
+      "Harvest"
+    ],
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "HP": 95,
+    "Attack": 95,
+    "Defense": 85,
+    "Special Atk": 125,
+    "Special Def": 75,
+    "Speed": 55,
+    "BST": 530
+  },
+  "Exeggutor-Alola": {
+    "abilities": [
+      "Frisk",
+      "Harvest"
+    ],
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "HP": 95,
+    "Attack": 105,
+    "Defense": 85,
+    "Special Atk": 125,
+    "Special Def": 75,
+    "Speed": 45,
+    "BST": 530
+  },
+  "Falinks": {
+    "abilities": [
+      "Battle Armor",
+      "Defiant"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 65,
+    "Attack": 100,
+    "Defense": 100,
+    "Special Atk": 70,
+    "Special Def": 60,
+    "Speed": 75,
+    "BST": 470
+  },
+  "Farigiraf": {
+    "abilities": [
+      "Cud Chew",
+      "Armor Tail",
+      "Sap Sipper"
+    ],
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "HP": 120,
+    "Attack": 90,
+    "Defense": 70,
+    "Special Atk": 110,
+    "Special Def": 70,
+    "Speed": 60,
+    "BST": 520
+  },
+  "Feraligatr": {
+    "abilities": [
+      "Torrent",
+      "Sheer Force"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 85,
+    "Attack": 105,
+    "Defense": 100,
+    "Special Atk": 79,
+    "Special Def": 83,
+    "Speed": 78,
+    "BST": 530
+  },
+  "Fezandipiti": {
+    "abilities": [
+      "Toxic Chain",
+      "Technician"
+    ],
+    "types": [
+      "Poison",
+      "Fairy"
+    ],
+    "HP": 88,
+    "Attack": 91,
+    "Defense": 82,
+    "Special Atk": 70,
+    "Special Def": 125,
+    "Speed": 99,
+    "BST": 555
+  },
+  "Flamigo": {
+    "abilities": [
+      "Scrappy",
+      "Costar",
+      "Tangled Feet"
+    ],
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "HP": 82,
+    "Attack": 115,
+    "Defense": 74,
+    "Special Atk": 75,
+    "Special Def": 64,
+    "Speed": 90,
+    "BST": 500
+  },
+  "Flapple": {
+    "abilities": [
+      "Ripen",
+      "Hustle",
+      "Gluttony"
+    ],
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "HP": 70,
+    "Attack": 110,
+    "Defense": 80,
+    "Special Atk": 95,
+    "Special Def": 60,
+    "Speed": 70,
+    "BST": 485
+  },
+  "Flareon": {
+    "abilities": [
+      "Flash Fire",
+      "Guts"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "HP": 65,
+    "Attack": 130,
+    "Defense": 60,
+    "Special Atk": 95,
+    "Special Def": 110,
+    "Speed": 65,
+    "BST": 525
+  },
+  "Floatzel": {
+    "abilities": [
+      "Swift Swim",
+      "Water Veil"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 85,
+    "Attack": 105,
+    "Defense": 55,
+    "Special Atk": 85,
+    "Special Def": 50,
+    "Speed": 115,
+    "BST": 495
+  },
+  "Florges": {
+    "abilities": [
+      "Flower Veil",
+      "Symbiosis"
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "HP": 78,
+    "Attack": 65,
+    "Defense": 68,
+    "Special Atk": 112,
+    "Special Def": 154,
+    "Speed": 75,
+    "BST": 552
+  },
+  "Flutter-Mane": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
+    "HP": 55,
+    "Attack": 55,
+    "Defense": 55,
+    "Special Atk": 135,
+    "Special Def": 135,
+    "Speed": 135,
+    "BST": 570
+  },
+  "Flygon": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Ground"
+    ],
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 80,
+    "Special Atk": 80,
+    "Special Def": 80,
+    "Speed": 100,
+    "BST": 520
+  },
+  "Forretress": {
+    "abilities": [
+      "Sturdy",
+      "Overcoat"
+    ],
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "HP": 75,
+    "Attack": 90,
+    "Defense": 140,
+    "Special Atk": 60,
+    "Special Def": 60,
+    "Speed": 40,
+    "BST": 465
+  },
+  "Froslass": {
+    "abilities": [
+      "Snow Cloak",
+      "Cursed Body"
+    ],
+    "types": [
+      "Ice",
+      "Ghost"
+    ],
+    "HP": 70,
+    "Attack": 80,
+    "Defense": 70,
+    "Special Atk": 80,
+    "Special Def": 70,
+    "Speed": 110,
+    "BST": 480
+  },
+  "Frosmoth": {
+    "abilities": [
+      "Shield Dust",
+      "Ice Scales"
+    ],
+    "types": [
+      "Ice",
+      "Bug"
+    ],
+    "HP": 70,
+    "Attack": 65,
+    "Defense": 60,
+    "Special Atk": 125,
+    "Special Def": 90,
+    "Speed": 65,
+    "BST": 475
+  },
+  "Furret": {
+    "abilities": [
+      "Run Away",
+      "Keen Eye",
+      "Frisk"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 85,
+    "Attack": 76,
+    "Defense": 64,
+    "Special Atk": 45,
+    "Special Def": 55,
+    "Speed": 90,
+    "BST": 415
+  },
+  "Gallade": {
+    "abilities": [
+      "Steadfast",
+      "Justified",
+      "Sharpness"
+    ],
+    "types": [
+      "Psychic",
+      "Fighting"
+    ],
+    "HP": 68,
+    "Attack": 125,
+    "Defense": 65,
+    "Special Atk": 65,
+    "Special Def": 115,
+    "Speed": 80,
+    "BST": 518
+  },
+  "Galvantula": {
+    "abilities": [
+      "Compound Eyes",
+      "Swarm",
+      "Unnerve"
+    ],
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "HP": 70,
+    "Attack": 77,
+    "Defense": 60,
+    "Special Atk": 97,
+    "Special Def": 60,
+    "Speed": 108,
+    "BST": 472
+  },
+  "Garchomp": {
+    "abilities": [
+      "Sand Veil",
+      "Rough Skin"
+    ],
+    "types": [
+      "Dragon",
+      "Ground"
+    ],
+    "HP": 108,
+    "Attack": 130,
+    "Defense": 95,
+    "Special Atk": 80,
+    "Special Def": 85,
+    "Speed": 102,
+    "BST": 600
+  },
+  "Gardevoir": {
+    "abilities": [
+      "Synchronize",
+      "Telepathy",
+      "Trace"
+    ],
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "HP": 68,
+    "Attack": 65,
+    "Defense": 65,
+    "Special Atk": 125,
+    "Special Def": 115,
+    "Speed": 80,
+    "BST": 518
+  },
+  "Garganacl": {
+    "abilities": [
+      "Purifying Salt",
+      "Clear Body",
+      "Sturdy"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 130,
+    "Special Atk": 45,
+    "Special Def": 90,
+    "Speed": 35,
+    "BST": 500
+  },
+  "Gastrodon": {
+    "abilities": [
+      "Sticky Hold",
+      "Sand Force",
+      "Storm Drain"
+    ],
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "HP": 111,
+    "Attack": 83,
+    "Defense": 68,
+    "Special Atk": 92,
+    "Special Def": 82,
+    "Speed": 39,
+    "BST": 475
+  },
+  "Gengar": {
+    "abilities": [
+      "Cursed Body"
+    ],
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "HP": 60,
+    "Attack": 65,
+    "Defense": 60,
+    "Special Atk": 130,
+    "Special Def": 75,
+    "Speed": 110,
+    "BST": 500
+  },
+  "Gholdengo": {
+    "abilities": [
+      "Good as Gold"
+    ],
+    "types": [
+      "Steel",
+      "Ghost"
+    ],
+    "HP": 87,
+    "Attack": 60,
+    "Defense": 95,
+    "Special Atk": 133,
+    "Special Def": 91,
+    "Speed": 84,
+    "BST": 550
+  },
+  "Girafarig": {
+    "abilities": [
+      "Inner Focus",
+      "Early Bird",
+      "Sap Sipper"
+    ],
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "HP": 70,
+    "Attack": 80,
+    "Defense": 65,
+    "Special Atk": 90,
+    "Special Def": 65,
+    "Speed": 85,
+    "BST": 455
+  },
+  "Giratina": {
+    "abilities": [
+      "Pressure",
+      "Telepathy"
+    ],
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
+    "HP": 150,
+    "Attack": 100,
+    "Defense": 120,
+    "Special Atk": 100,
+    "Special Def": 120,
+    "Speed": 90,
+    "BST": 680
+  },
+  "Giratina-Origin": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
+    "HP": 150,
+    "Attack": 120,
+    "Defense": 100,
+    "Special Atk": 120,
+    "Special Def": 100,
+    "Speed": 90,
+    "BST": 680
+  },
+  "Glaceon": {
+    "abilities": [
+      "Snow Cloak",
+      "Ice Body"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 65,
+    "Attack": 60,
+    "Defense": 110,
+    "Special Atk": 130,
+    "Special Def": 95,
+    "Speed": 65,
+    "BST": 525
+  },
+  "Glalie": {
+    "abilities": [
+      "Inner Focus",
+      "Ice Body",
+      "Moody"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 80,
+    "Special Atk": 80,
+    "Special Def": 80,
+    "Speed": 80,
+    "BST": 480
+  },
+  "Glastrier": {
+    "abilities": [
+      "Chilling Neigh"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 100,
+    "Attack": 145,
+    "Defense": 130,
+    "Special Atk": 65,
+    "Special Def": 110,
+    "Speed": 30,
+    "BST": 580
+  },
+  "Glimmora": {
+    "abilities": [
+      "Toxic Debris",
+      "Corrosion"
+    ],
+    "types": [
+      "Rock",
+      "Poison"
+    ],
+    "HP": 83,
+    "Attack": 55,
+    "Defense": 90,
+    "Special Atk": 130,
+    "Special Def": 81,
+    "Speed": 86,
+    "BST": 525
+  },
+  "Gliscor": {
+    "abilities": [
+      "Hyper Cutter",
+      "Poison Heal",
+      "Sand Veil"
+    ],
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "HP": 75,
+    "Attack": 95,
+    "Defense": 125,
+    "Special Atk": 45,
+    "Special Def": 75,
+    "Speed": 95,
+    "BST": 510
+  },
+  "Gogoat": {
+    "abilities": [
+      "Sap Sipper",
+      "Grass Pelt"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 123,
+    "Attack": 100,
+    "Defense": 62,
+    "Special Atk": 97,
+    "Special Def": 81,
+    "Speed": 68,
+    "BST": 531
+  },
+  "Golduck": {
+    "abilities": [
+      "Damp",
+      "Swift Swim",
+      "Cloud Nine"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 78,
+    "Special Atk": 95,
+    "Special Def": 80,
+    "Speed": 85,
+    "BST": 500
+  },
+  "Golem": {
+    "abilities": [
+      "Rock Head",
+      "Sand Veil",
+      "Sturdy"
+    ],
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 130,
+    "Special Atk": 55,
+    "Special Def": 65,
+    "Speed": 45,
+    "BST": 495
+  },
+  "Golem-Alola": {
+    "abilities": [
+      "Magnet Pull",
+      "Galvanize",
+      "Sturdy"
+    ],
+    "types": [
+      "Rock",
+      "Electric"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 130,
+    "Special Atk": 55,
+    "Special Def": 65,
+    "Speed": 45,
+    "BST": 495
+  },
+  "Golurk": {
+    "abilities": [
+      "Iron Fist",
+      "No Guard",
+      "Klutz"
+    ],
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "HP": 89,
+    "Attack": 124,
+    "Defense": 80,
+    "Special Atk": 55,
+    "Special Def": 80,
+    "Speed": 55,
+    "BST": 483
+  },
+  "Goodra": {
+    "abilities": [
+      "Sap Sipper",
+      "Gooey",
+      "Hydration"
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "HP": 90,
+    "Attack": 100,
+    "Defense": 70,
+    "Special Atk": 110,
+    "Special Def": 150,
+    "Speed": 80,
+    "BST": 600
+  },
+  "Goodra-Hisui": {
+    "abilities": [
+      "Sap Sipper",
+      "Gooey",
+      "Shell Armor"
+    ],
+    "types": [
+      "Steel",
+      "Dragon"
+    ],
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 100,
+    "Special Atk": 110,
+    "Special Def": 150,
+    "Speed": 60,
+    "BST": 600
+  },
+  "Gothitelle": {
+    "abilities": [
+      "Frisk",
+      "Shadow Tag",
+      "Competitive"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 70,
+    "Attack": 55,
+    "Defense": 95,
+    "Special Atk": 95,
+    "Special Def": 110,
+    "Speed": 65,
+    "BST": 490
+  },
+  "Gouging-Fire": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "HP": 105,
+    "Attack": 115,
+    "Defense": 121,
+    "Special Atk": 65,
+    "Special Def": 93,
+    "Speed": 91,
+    "BST": 590
+  },
+  "Grafaiai": {
+    "abilities": [
+      "Unburden",
+      "Poison Touch",
+      "Prankster"
+    ],
+    "types": [
+      "Poison",
+      "Normal"
+    ],
+    "HP": 63,
+    "Attack": 95,
+    "Defense": 65,
+    "Special Atk": 80,
+    "Special Def": 72,
+    "Speed": 110,
+    "BST": 485
+  },
+  "Granbull": {
+    "abilities": [
+      "Intimidate",
+      "Rattled",
+      "Quick Feet"
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "HP": 90,
+    "Attack": 120,
+    "Defense": 75,
+    "Special Atk": 60,
+    "Special Def": 60,
+    "Speed": 45,
+    "BST": 450
+  },
+  "Great-Tusk": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Ground",
+      "Fighting"
+    ],
+    "HP": 115,
+    "Attack": 131,
+    "Defense": 131,
+    "Special Atk": 53,
+    "Special Def": 53,
+    "Speed": 87,
+    "BST": 570
+  },
+  "Greedent": {
+    "abilities": [
+      "Cheek Pouch",
+      "Gluttony"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 120,
+    "Attack": 95,
+    "Defense": 95,
+    "Special Atk": 55,
+    "Special Def": 75,
+    "Speed": 20,
+    "BST": 460
+  },
+  "Greninja": {
+    "abilities": [
+      "Torrent",
+      "Battle Bond",
+      "Protean"
+    ],
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "HP": 72,
+    "Attack": 95,
+    "Defense": 67,
+    "Special Atk": 103,
+    "Special Def": 71,
+    "Speed": 122,
+    "BST": 530
+  },
+  "Greninja-Bond": {
+    "abilities": [
+      "Battle Bond"
+    ],
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "HP": 72,
+    "Attack": 145,
+    "Defense": 67,
+    "Special Atk": 153,
+    "Special Def": 71,
+    "Speed": 132,
+    "BST": 640
+  },
+  "Grimmsnarl": {
+    "abilities": [
+      "Prankster",
+      "Pickpocket",
+      "Frisk"
+    ],
+    "types": [
+      "Dark",
+      "Fairy"
+    ],
+    "HP": 95,
+    "Attack": 120,
+    "Defense": 65,
+    "Special Atk": 95,
+    "Special Def": 75,
+    "Speed": 60,
+    "BST": 510
+  },
+  "Groudon": {
+    "abilities": [
+      "Drought"
+    ],
+    "types": [
+      "Ground"
+    ],
+    "HP": 100,
+    "Attack": 150,
+    "Defense": 140,
+    "Special Atk": 100,
+    "Special Def": 90,
+    "Speed": 90,
+    "BST": 670
+  },
+  "Grumpig": {
+    "abilities": [
+      "Thick Fat",
+      "Gluttony",
+      "Own Tempo"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 80,
+    "Attack": 45,
+    "Defense": 65,
+    "Special Atk": 90,
+    "Special Def": 110,
+    "Speed": 80,
+    "BST": 470
+  },
+  "Gumshoos": {
+    "abilities": [
+      "Strong Jaw",
+      "Stakeout",
+      "Adaptability"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 88,
+    "Attack": 110,
+    "Defense": 60,
+    "Special Atk": 55,
+    "Special Def": 60,
+    "Speed": 45,
+    "BST": 418
+  },
+  "Gurdurr": {
+    "abilities": [
+      "Guts",
+      "Iron Fist",
+      "Sheer Force"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 85,
+    "Attack": 105,
+    "Defense": 85,
+    "Special Atk": 40,
+    "Special Def": 50,
+    "Speed": 40,
+    "BST": 405
+  },
+  "Gyarados": {
+    "abilities": [
+      "Intimidate",
+      "Moxie"
+    ],
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "HP": 95,
+    "Attack": 155,
+    "Defense": 109,
+    "Special Atk": 70,
+    "Special Def": 130,
+    "Speed": 81,
+    "BST": 640
+  },
+  "Hariyama": {
+    "abilities": [
+      "Thick Fat",
+      "Sheer Force",
+      "Guts"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 144,
+    "Attack": 120,
+    "Defense": 60,
+    "Special Atk": 40,
+    "Special Def": 60,
+    "Speed": 50,
+    "BST": 474
+  },
+  "Hatterene": {
+    "abilities": [
+      "Healer",
+      "Magic Bounce",
+      "Anticipation"
+    ],
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "HP": 57,
+    "Attack": 90,
+    "Defense": 95,
+    "Special Atk": 136,
+    "Special Def": 103,
+    "Speed": 29,
+    "BST": 510
+  },
+  "Hawlucha": {
+    "abilities": [
+      "Limber",
+      "Mold Breaker",
+      "Unburden"
+    ],
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "HP": 78,
+    "Attack": 92,
+    "Defense": 75,
+    "Special Atk": 74,
+    "Special Def": 63,
+    "Speed": 118,
+    "BST": 500
+  },
+  "Haxorus": {
+    "abilities": [
+      "Rivalry",
+      "Unnerve",
+      "Mold Breaker"
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "HP": 76,
+    "Attack": 147,
+    "Defense": 90,
+    "Special Atk": 60,
+    "Special Def": 70,
+    "Speed": 97,
+    "BST": 540
+  },
+  "Heatran": {
+    "abilities": [
+      "Flash Fire",
+      "Flame Body"
+    ],
+    "types": [
+      "Fire",
+      "Steel"
+    ],
+    "HP": 91,
+    "Attack": 90,
+    "Defense": 106,
+    "Special Atk": 130,
+    "Special Def": 106,
+    "Speed": 77,
+    "BST": 600
+  },
+  "Heracross": {
+    "abilities": [
+      "Swarm",
+      "Moxie",
+      "Guts"
+    ],
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "HP": 80,
+    "Attack": 125,
+    "Defense": 75,
+    "Special Atk": 40,
+    "Special Def": 95,
+    "Speed": 85,
+    "BST": 500
+  },
+  "Hippowdon": {
+    "abilities": [
+      "Sand Stream",
+      "Sand Force"
+    ],
+    "types": [
+      "Ground"
+    ],
+    "HP": 108,
+    "Attack": 112,
+    "Defense": 118,
+    "Special Atk": 68,
+    "Special Def": 72,
+    "Speed": 47,
+    "BST": 525
+  },
+  "Hitmonchan": {
+    "abilities": [
+      "Keen Eye",
+      "Inner Focus",
+      "Iron Fist"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 50,
+    "Attack": 105,
+    "Defense": 79,
+    "Special Atk": 35,
+    "Special Def": 110,
+    "Speed": 76,
+    "BST": 455
+  },
+  "Hitmonlee": {
+    "abilities": [
+      "Limber",
+      "Unburden",
+      "Reckless"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 50,
+    "Attack": 120,
+    "Defense": 53,
+    "Special Atk": 35,
+    "Special Def": 110,
+    "Speed": 87,
+    "BST": 455
+  },
+  "Hitmontop": {
+    "abilities": [
+      "Intimidate",
+      "Steadfast",
+      "Technician"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 50,
+    "Attack": 95,
+    "Defense": 95,
+    "Special Atk": 35,
+    "Special Def": 110,
+    "Speed": 70,
+    "BST": 455
+  },
+  "Ho-Oh": {
+    "abilities": [
+      "Pressure",
+      "Regenerator"
+    ],
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "HP": 106,
+    "Attack": 130,
+    "Defense": 90,
+    "Special Atk": 110,
+    "Special Def": 154,
+    "Speed": 90,
+    "BST": 680
+  },
+  "Honchkrow": {
+    "abilities": [
+      "Insomnia",
+      "Moxie",
+      "Super Luck"
+    ],
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "HP": 100,
+    "Attack": 125,
+    "Defense": 52,
+    "Special Atk": 105,
+    "Special Def": 52,
+    "Speed": 71,
+    "BST": 505
+  },
+  "Hoopa": {
+    "abilities": [
+      "Magician"
+    ],
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "HP": 80,
+    "Attack": 110,
+    "Defense": 60,
+    "Special Atk": 150,
+    "Special Def": 130,
+    "Speed": 70,
+    "BST": 600
+  },
+  "Hoopa-Unbound": {
+    "abilities": [
+      "Magician"
+    ],
+    "types": [
+      "Psychic",
+      "Dark"
+    ],
+    "HP": 80,
+    "Attack": 160,
+    "Defense": 60,
+    "Special Atk": 170,
+    "Special Def": 130,
+    "Speed": 80,
+    "BST": 680
+  },
+  "Houndoom": {
+    "abilities": [
+      "Early Bird",
+      "Unnerve",
+      "Flash Fire"
+    ],
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "HP": 75,
+    "Attack": 90,
+    "Defense": 50,
+    "Special Atk": 110,
+    "Special Def": 80,
+    "Speed": 95,
+    "BST": 500
+  },
+  "Houndstone": {
+    "abilities": [
+      "Sand Rush",
+      "Fluffy"
+    ],
+    "types": [
+      "Ghost"
+    ],
+    "HP": 72,
+    "Attack": 101,
+    "Defense": 100,
+    "Special Atk": 50,
+    "Special Def": 97,
+    "Speed": 68,
+    "BST": 488
+  },
+  "Hydrapple": {
+    "abilities": [
+      "Supersweet Syrup",
+      "Sticky Hold",
+      "Regenerator"
+    ],
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "HP": 106,
+    "Attack": 80,
+    "Defense": 110,
+    "Special Atk": 120,
+    "Special Def": 80,
+    "Speed": 44,
+    "BST": 540
+  },
+  "Hydreigon": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Dark",
+      "Dragon"
+    ],
+    "HP": 92,
+    "Attack": 105,
+    "Defense": 90,
+    "Special Atk": 125,
+    "Special Def": 90,
+    "Speed": 98,
+    "BST": 600
+  },
+  "Hypno": {
+    "abilities": [
+      "Insomnia",
+      "Inner Focus",
+      "Forewarn"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 85,
+    "Attack": 73,
+    "Defense": 70,
+    "Special Atk": 73,
+    "Special Def": 115,
+    "Speed": 67,
+    "BST": 483
+  },
+  "Illumise": {
+    "abilities": [
+      "Oblivious",
+      "Prankster",
+      "Tinted Lens"
+    ],
+    "types": [
+      "Bug"
+    ],
+    "HP": 65,
+    "Attack": 47,
+    "Defense": 75,
+    "Special Atk": 73,
+    "Special Def": 85,
+    "Speed": 85,
+    "BST": 430
+  },
+  "Incineroar": {
+    "abilities": [
+      "Blaze",
+      "Intimidate"
+    ],
+    "types": [
+      "Fire",
+      "Dark"
+    ],
+    "HP": 95,
+    "Attack": 115,
+    "Defense": 90,
+    "Special Atk": 80,
+    "Special Def": 90,
+    "Speed": 60,
+    "BST": 530
+  },
+  "Indeedee": {
+    "abilities": [
+      "Inner Focus",
+      "Synchronize",
+      "Psychic Surge"
+    ],
+    "types": [
+      "Psychic",
+      "Normal"
+    ],
+    "HP": 60,
+    "Attack": 65,
+    "Defense": 55,
+    "Special Atk": 105,
+    "Special Def": 95,
+    "Speed": 95,
+    "BST": 475
+  },
+  "Indeedee-F": {
+    "abilities": [
+      "Own Tempo",
+      "Synchronize",
+      "Psychic Surge"
+    ],
+    "types": [
+      "Psychic",
+      "Normal"
+    ],
+    "HP": 70,
+    "Attack": 55,
+    "Defense": 65,
+    "Special Atk": 95,
+    "Special Def": 105,
+    "Speed": 85,
+    "BST": 475
+  },
+  "Infernape": {
+    "abilities": [
+      "Blaze",
+      "Iron Fist"
+    ],
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "HP": 76,
+    "Attack": 104,
+    "Defense": 71,
+    "Special Atk": 104,
+    "Special Def": 71,
+    "Speed": 108,
+    "BST": 534
+  },
+  "Inteleon": {
+    "abilities": [
+      "Torrent",
+      "Sniper"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 70,
+    "Attack": 85,
+    "Defense": 65,
+    "Special Atk": 125,
+    "Special Def": 65,
+    "Speed": 120,
+    "BST": 530
+  },
+  "Iron-Boulder": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Rock",
+      "Psychic"
+    ],
+    "HP": 90,
+    "Attack": 120,
+    "Defense": 80,
+    "Special Atk": 68,
+    "Special Def": 108,
+    "Speed": 124,
+    "BST": 590
+  },
+  "Iron-Bundle": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "HP": 56,
+    "Attack": 80,
+    "Defense": 114,
+    "Special Atk": 124,
+    "Special Def": 60,
+    "Speed": 136,
+    "BST": 570
+  },
+  "Iron-Crown": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "HP": 90,
+    "Attack": 72,
+    "Defense": 100,
+    "Special Atk": 122,
+    "Special Def": 108,
+    "Speed": 98,
+    "BST": 590
+  },
+  "Iron-Hands": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Fighting",
+      "Electric"
+    ],
+    "HP": 154,
+    "Attack": 140,
+    "Defense": 108,
+    "Special Atk": 50,
+    "Special Def": 68,
+    "Speed": 50,
+    "BST": 570
+  },
+  "Iron-Jugulis": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "HP": 94,
+    "Attack": 80,
+    "Defense": 86,
+    "Special Atk": 122,
+    "Special Def": 80,
+    "Speed": 108,
+    "BST": 570
+  },
+  "Iron-Leaves": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "HP": 90,
+    "Attack": 130,
+    "Defense": 88,
+    "Special Atk": 70,
+    "Special Def": 108,
+    "Speed": 104,
+    "BST": 590
+  },
+  "Iron-Moth": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Fire",
+      "Poison"
+    ],
+    "HP": 80,
+    "Attack": 70,
+    "Defense": 60,
+    "Special Atk": 140,
+    "Special Def": 110,
+    "Speed": 110,
+    "BST": 570
+  },
+  "Iron-Thorns": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Rock",
+      "Electric"
+    ],
+    "HP": 100,
+    "Attack": 134,
+    "Defense": 110,
+    "Special Atk": 70,
+    "Special Def": 84,
+    "Speed": 72,
+    "BST": 570
+  },
+  "Iron-Treads": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "HP": 90,
+    "Attack": 112,
+    "Defense": 120,
+    "Special Atk": 72,
+    "Special Def": 70,
+    "Speed": 106,
+    "BST": 570
+  },
+  "Iron-Valiant": {
+    "abilities": [
+      "Quark Drive"
+    ],
+    "types": [
+      "Fairy",
+      "Fighting"
+    ],
+    "HP": 74,
+    "Attack": 130,
+    "Defense": 90,
+    "Special Atk": 120,
+    "Special Def": 60,
+    "Speed": 116,
+    "BST": 590
+  },
+  "Jirachi": {
+    "abilities": [
+      "Serene Grace"
+    ],
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Special Atk": 100,
+    "Special Def": 100,
+    "Speed": 100,
+    "BST": 600
+  },
+  "Jolteon": {
+    "abilities": [
+      "Volt Absorb",
+      "Quick Feet"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 60,
+    "Special Atk": 110,
+    "Special Def": 95,
+    "Speed": 130,
+    "BST": 525
+  },
+  "Jumpluff": {
+    "abilities": [
+      "Chlorophyll",
+      "Infiltrator",
+      "Leaf Guard"
+    ],
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "HP": 75,
+    "Attack": 55,
+    "Defense": 70,
+    "Special Atk": 55,
+    "Special Def": 95,
+    "Speed": 110,
+    "BST": 460
+  },
+  "Keldeo-Resolute": {
+    "abilities": [
+      "Justified"
+    ],
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "HP": 91,
+    "Attack": 72,
+    "Defense": 90,
+    "Special Atk": 129,
+    "Special Def": 90,
+    "Speed": 108,
+    "BST": 580
+  },
+  "Kilowattrel": {
+    "abilities": [
+      "Wind Power",
+      "Competitive",
+      "Volt Absorb"
+    ],
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "HP": 70,
+    "Attack": 70,
+    "Defense": 60,
+    "Special Atk": 105,
+    "Special Def": 60,
+    "Speed": 125,
+    "BST": 490
+  },
+  "Kingambit": {
+    "abilities": [
+      "Defiant",
+      "Pressure",
+      "Supreme Overlord"
+    ],
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "HP": 100,
+    "Attack": 135,
+    "Defense": 120,
+    "Special Atk": 60,
+    "Special Def": 85,
+    "Speed": 50,
+    "BST": 550
+  },
+  "Kingdra": {
+    "abilities": [
+      "Swift Swim",
+      "Damp",
+      "Sniper"
+    ],
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "HP": 75,
+    "Attack": 95,
+    "Defense": 95,
+    "Special Atk": 95,
+    "Special Def": 95,
+    "Speed": 85,
+    "BST": 540
+  },
+  "Klawf": {
+    "abilities": [
+      "Anger Shell",
+      "Regenerator",
+      "Shell Armor"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 70,
+    "Attack": 100,
+    "Defense": 115,
+    "Special Atk": 35,
+    "Special Def": 55,
+    "Speed": 75,
+    "BST": 450
+  },
+  "Kleavor": {
+    "abilities": [
+      "Swarm",
+      "Sharpness",
+      "Sheer Force"
+    ],
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "HP": 70,
+    "Attack": 135,
+    "Defense": 95,
+    "Special Atk": 45,
+    "Special Def": 70,
+    "Speed": 85,
+    "BST": 500
+  },
+  "Klefki": {
+    "abilities": [
+      "Prankster",
+      "Magician"
+    ],
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "HP": 57,
+    "Attack": 80,
+    "Defense": 91,
+    "Special Atk": 80,
+    "Special Def": 87,
+    "Speed": 75,
+    "BST": 470
+  },
+  "Komala": {
+    "abilities": [
+      "Comatose"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 65,
+    "Attack": 115,
+    "Defense": 65,
+    "Special Atk": 75,
+    "Special Def": 95,
+    "Speed": 65,
+    "BST": 480
+  },
+  "Kommo-o": {
+    "abilities": [
+      "Bulletproof",
+      "Overcoat",
+      "Soundproof"
+    ],
+    "types": [
+      "Dragon",
+      "Fighting"
+    ],
+    "HP": 75,
+    "Attack": 110,
+    "Defense": 125,
+    "Special Atk": 100,
+    "Special Def": 105,
+    "Speed": 85,
+    "BST": 600
+  },
+  "Koraidon": {
+    "abilities": [
+      "Orichalcum Pulse"
+    ],
+    "types": [
+      "Fighting",
+      "Dragon"
+    ],
+    "HP": 100,
+    "Attack": 135,
+    "Defense": 115,
+    "Special Atk": 85,
+    "Special Def": 100,
+    "Speed": 135,
+    "BST": 670
+  },
+  "Kricketune": {
+    "abilities": [
+      "Swarm",
+      "Technician"
+    ],
+    "types": [
+      "Bug"
+    ],
+    "HP": 77,
+    "Attack": 85,
+    "Defense": 51,
+    "Special Atk": 55,
+    "Special Def": 51,
+    "Speed": 65,
+    "BST": 384
+  },
+  "Krookodile": {
+    "abilities": [
+      "Intimidate",
+      "Anger Point",
+      "Moxie"
+    ],
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "HP": 95,
+    "Attack": 117,
+    "Defense": 80,
+    "Special Atk": 65,
+    "Special Def": 70,
+    "Speed": 92,
+    "BST": 519
+  },
+  "Kyogre": {
+    "abilities": [
+      "Drizzle"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 100,
+    "Attack": 150,
+    "Defense": 90,
+    "Special Atk": 180,
+    "Special Def": 160,
+    "Speed": 90,
+    "BST": 770
+  },
+  "Kyurem": {
+    "abilities": [
+      "Pressure"
+    ],
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "HP": 125,
+    "Attack": 130,
+    "Defense": 90,
+    "Special Atk": 130,
+    "Special Def": 90,
+    "Speed": 95,
+    "BST": 660
+  },
+  "Kyurem-Black": {
+    "abilities": [
+      "Teravolt"
+    ],
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "HP": 125,
+    "Attack": 170,
+    "Defense": 100,
+    "Special Atk": 120,
+    "Special Def": 90,
+    "Speed": 95,
+    "BST": 700
+  },
+  "Kyurem-White": {
+    "abilities": [
+      "Turboblaze"
+    ],
+    "types": [
+      "Dragon",
+      "Ice"
+    ],
+    "HP": 125,
+    "Attack": 120,
+    "Defense": 90,
+    "Special Atk": 170,
+    "Special Def": 100,
+    "Speed": 95,
+    "BST": 700
+  },
+  "Landorus": {
+    "abilities": [
+      "Sand Force",
+      "Sheer Force"
+    ],
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "HP": 89,
+    "Attack": 125,
+    "Defense": 90,
+    "Special Atk": 115,
+    "Special Def": 80,
+    "Speed": 101,
+    "BST": 600
+  },
+  "Landorus-Therian": {
+    "abilities": [
+      "Intimidate"
+    ],
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "HP": 89,
+    "Attack": 145,
+    "Defense": 90,
+    "Special Atk": 105,
+    "Special Def": 80,
+    "Speed": 91,
+    "BST": 600
+  },
+  "Lanturn": {
+    "abilities": [
+      "Volt Absorb",
+      "Water Absorb",
+      "Illuminate"
+    ],
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "HP": 125,
+    "Attack": 58,
+    "Defense": 58,
+    "Special Atk": 76,
+    "Special Def": 76,
+    "Speed": 67,
+    "BST": 460
+  },
+  "Lapras": {
+    "abilities": [
+      "Water Absorb",
+      "Hydration",
+      "Shell Armor"
+    ],
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "HP": 130,
+    "Attack": 85,
+    "Defense": 80,
+    "Special Atk": 85,
+    "Special Def": 95,
+    "Speed": 60,
+    "BST": 535
+  },
+  "Latias": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 90,
+    "Special Atk": 110,
+    "Special Def": 130,
+    "Speed": 110,
+    "BST": 600
+  },
+  "Latios": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Dragon",
+      "Psychic"
+    ],
+    "HP": 80,
+    "Attack": 90,
+    "Defense": 80,
+    "Special Atk": 130,
+    "Special Def": 110,
+    "Speed": 110,
+    "BST": 600
+  },
+  "Leafeon": {
+    "abilities": [
+      "Leaf Guard",
+      "Chlorophyll"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 65,
+    "Attack": 110,
+    "Defense": 130,
+    "Special Atk": 60,
+    "Special Def": 65,
+    "Speed": 95,
+    "BST": 525
+  },
+  "Leavanny": {
+    "abilities": [
+      "Swarm",
+      "Overcoat",
+      "Chlorophyll"
+    ],
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "HP": 75,
+    "Attack": 103,
+    "Defense": 80,
+    "Special Atk": 70,
+    "Special Def": 80,
+    "Speed": 92,
+    "BST": 500
+  },
+  "Lilligant": {
+    "abilities": [
+      "Chlorophyll",
+      "Leaf Guard",
+      "Own Tempo"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 70,
+    "Attack": 60,
+    "Defense": 75,
+    "Special Atk": 110,
+    "Special Def": 75,
+    "Speed": 90,
+    "BST": 480
+  },
+  "Lilligant-Hisui": {
+    "abilities": [
+      "Chlorophyll",
+      "Leaf Guard",
+      "Hustle"
+    ],
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "HP": 70,
+    "Attack": 105,
+    "Defense": 75,
+    "Special Atk": 50,
+    "Special Def": 75,
+    "Speed": 105,
+    "BST": 480
+  },
+  "Lokix": {
+    "abilities": [
+      "Swarm",
+      "Tinted Lens"
+    ],
+    "types": [
+      "Bug",
+      "Dark"
+    ],
+    "HP": 71,
+    "Attack": 102,
+    "Defense": 78,
+    "Special Atk": 52,
+    "Special Def": 55,
+    "Speed": 92,
+    "BST": 450
+  },
+  "Lucario": {
+    "abilities": [
+      "Steadfast",
+      "Justified",
+      "Inner Focus"
+    ],
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "HP": 70,
+    "Attack": 110,
+    "Defense": 70,
+    "Special Atk": 115,
+    "Special Def": 70,
+    "Speed": 90,
+    "BST": 525
+  },
+  "Ludicolo": {
+    "abilities": [
+      "Swift Swim",
+      "Own Tempo",
+      "Rain Dish"
+    ],
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "HP": 80,
+    "Attack": 70,
+    "Defense": 70,
+    "Special Atk": 90,
+    "Special Def": 100,
+    "Speed": 70,
+    "BST": 480
+  },
+  "Lugia": {
+    "abilities": [
+      "Pressure",
+      "Multiscale"
+    ],
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "HP": 106,
+    "Attack": 90,
+    "Defense": 130,
+    "Special Atk": 90,
+    "Special Def": 154,
+    "Speed": 110,
+    "BST": 680
+  },
+  "Lumineon": {
+    "abilities": [
+      "Swift Swim",
+      "Water Veil",
+      "Storm Drain"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 69,
+    "Attack": 69,
+    "Defense": 76,
+    "Special Atk": 69,
+    "Special Def": 86,
+    "Speed": 91,
+    "BST": 460
+  },
+  "Lunala": {
+    "abilities": [
+      "Shadow Shield"
+    ],
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "HP": 137,
+    "Attack": 113,
+    "Defense": 89,
+    "Special Atk": 137,
+    "Special Def": 107,
+    "Speed": 97,
+    "BST": 680
+  },
+  "Lurantis": {
+    "abilities": [
+      "Leaf Guard",
+      "Contrary"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 70,
+    "Attack": 105,
+    "Defense": 90,
+    "Special Atk": 80,
+    "Special Def": 90,
+    "Speed": 45,
+    "BST": 480
+  },
+  "Luvdisc": {
+    "abilities": [
+      "Swift Swim",
+      "Hydration"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 43,
+    "Attack": 30,
+    "Defense": 55,
+    "Special Atk": 40,
+    "Special Def": 65,
+    "Speed": 97,
+    "BST": 330
+  },
+  "Luxray": {
+    "abilities": [
+      "Rivalry",
+      "Guts",
+      "Intimidate"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 79,
+    "Special Atk": 95,
+    "Special Def": 79,
+    "Speed": 70,
+    "BST": 523
+  },
+  "Lycanroc": {
+    "abilities": [
+      "Keen Eye",
+      "Steadfast",
+      "Sand Rush"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 75,
+    "Attack": 115,
+    "Defense": 65,
+    "Special Atk": 55,
+    "Special Def": 65,
+    "Speed": 112,
+    "BST": 487
+  },
+  "Lycanroc-Dusk": {
+    "abilities": [
+      "Tough Claws"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 75,
+    "Attack": 117,
+    "Defense": 65,
+    "Special Atk": 55,
+    "Special Def": 65,
+    "Speed": 110,
+    "BST": 487
+  },
+  "Lycanroc-Midnight": {
+    "abilities": [
+      "Keen Eye",
+      "No Guard",
+      "Vital Spirit"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 85,
+    "Attack": 115,
+    "Defense": 75,
+    "Special Atk": 55,
+    "Special Def": 75,
+    "Speed": 82,
+    "BST": 487
+  },
+  "Mabosstiff": {
+    "abilities": [
+      "Intimidate",
+      "Stakeout",
+      "Guard Dog"
+    ],
+    "types": [
+      "Dark"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 90,
+    "Special Atk": 60,
+    "Special Def": 70,
+    "Speed": 85,
+    "BST": 505
+  },
+  "Magcargo": {
+    "abilities": [
+      "Magma Armor",
+      "Weak Armor",
+      "Flame Body"
+    ],
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 120,
+    "Special Atk": 90,
+    "Special Def": 80,
+    "Speed": 30,
+    "BST": 430
+  },
+  "Magearna": {
+    "abilities": [
+      "Soul-Heart"
+    ],
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "HP": 80,
+    "Attack": 95,
+    "Defense": 115,
+    "Special Atk": 130,
+    "Special Def": 115,
+    "Speed": 65,
+    "BST": 600
+  },
+  "Magmortar": {
+    "abilities": [
+      "Flame Body",
+      "Vital Spirit"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "HP": 75,
+    "Attack": 95,
+    "Defense": 67,
+    "Special Atk": 125,
+    "Special Def": 95,
+    "Speed": 83,
+    "BST": 540
+  },
+  "Magnezone": {
+    "abilities": [
+      "Magnet Pull",
+      "Analytic",
+      "Sturdy"
+    ],
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "HP": 70,
+    "Attack": 70,
+    "Defense": 115,
+    "Special Atk": 130,
+    "Special Def": 90,
+    "Speed": 60,
+    "BST": 535
+  },
+  "Malamar": {
+    "abilities": [
+      "Contrary",
+      "Infiltrator",
+      "Suction Cups"
+    ],
+    "types": [
+      "Dark",
+      "Psychic"
+    ],
+    "HP": 86,
+    "Attack": 92,
+    "Defense": 88,
+    "Special Atk": 68,
+    "Special Def": 75,
+    "Speed": 73,
+    "BST": 482
+  },
+  "Mamoswine": {
+    "abilities": [
+      "Oblivious",
+      "Thick Fat",
+      "Snow Cloak"
+    ],
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "HP": 110,
+    "Attack": 130,
+    "Defense": 80,
+    "Special Atk": 70,
+    "Special Def": 60,
+    "Speed": 80,
+    "BST": 530
+  },
+  "Manaphy": {
+    "abilities": [
+      "Hydration"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Special Atk": 100,
+    "Special Def": 100,
+    "Speed": 100,
+    "BST": 600
+  },
+  "Mandibuzz": {
+    "abilities": [
+      "Big Pecks",
+      "Weak Armor",
+      "Overcoat"
+    ],
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "HP": 110,
+    "Attack": 65,
+    "Defense": 105,
+    "Special Atk": 55,
+    "Special Def": 95,
+    "Speed": 80,
+    "BST": 510
+  },
+  "Masquerain": {
+    "abilities": [
+      "Intimidate",
+      "Unnerve"
+    ],
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "HP": 70,
+    "Attack": 60,
+    "Defense": 62,
+    "Special Atk": 100,
+    "Special Def": 82,
+    "Speed": 80,
+    "BST": 454
+  },
+  "Maushold": {
+    "abilities": [
+      "Friend Guard",
+      "Cheek Pouch",
+      "Technician"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 74,
+    "Attack": 75,
+    "Defense": 70,
+    "Special Atk": 65,
+    "Special Def": 75,
+    "Speed": 111,
+    "BST": 470
+  },
+  "Medicham": {
+    "abilities": [
+      "Pure Power",
+      "Telepathy"
+    ],
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 75,
+    "Special Atk": 60,
+    "Special Def": 75,
+    "Speed": 80,
+    "BST": 410
+  },
+  "Meganium": {
+    "abilities": [
+      "Overgrow",
+      "Leaf Guard"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 100,
+    "Special Atk": 83,
+    "Special Def": 100,
+    "Speed": 80,
+    "BST": 525
+  },
+  "Meloetta": {
+    "abilities": [
+      "Serene Grace"
+    ],
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "HP": 100,
+    "Attack": 77,
+    "Defense": 77,
+    "Special Atk": 128,
+    "Special Def": 128,
+    "Speed": 90,
+    "BST": 600
+  },
+  "Meowscarada": {
+    "abilities": [
+      "Overgrow",
+      "Protean"
+    ],
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "HP": 76,
+    "Attack": 110,
+    "Defense": 70,
+    "Special Atk": 81,
+    "Special Def": 70,
+    "Speed": 123,
+    "BST": 530
+  },
+  "Meowstic": {
+    "abilities": [
+      "Keen Eye",
+      "Prankster",
+      "Infiltrator"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 74,
+    "Attack": 48,
+    "Defense": 76,
+    "Special Atk": 83,
+    "Special Def": 81,
+    "Speed": 104,
+    "BST": 466
+  },
+  "Meowstic-F": {
+    "abilities": [
+      "Keen Eye",
+      "Competitive",
+      "Infiltrator"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 74,
+    "Attack": 48,
+    "Defense": 76,
+    "Special Atk": 83,
+    "Special Def": 81,
+    "Speed": 104,
+    "BST": 466
+  },
+  "Mesprit": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 80,
+    "Attack": 105,
+    "Defense": 105,
+    "Special Atk": 105,
+    "Special Def": 105,
+    "Speed": 80,
+    "BST": 580
+  },
+  "Metagross": {
+    "abilities": [
+      "Clear Body",
+      "Light Metal"
+    ],
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "HP": 80,
+    "Attack": 135,
+    "Defense": 130,
+    "Special Atk": 95,
+    "Special Def": 90,
+    "Speed": 70,
+    "BST": 600
+  },
+  "Mew": {
+    "abilities": [
+      "Synchronize"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Special Atk": 100,
+    "Special Def": 100,
+    "Speed": 100,
+    "BST": 600
+  },
+  "Mewtwo": {
+    "abilities": [
+      "Pressure",
+      "Unnerve"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 106,
+    "Attack": 110,
+    "Defense": 90,
+    "Special Atk": 154,
+    "Special Def": 90,
+    "Speed": 130,
+    "BST": 680
+  },
+  "Mienshao": {
+    "abilities": [
+      "Inner Focus",
+      "Reckless",
+      "Regenerator"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 65,
+    "Attack": 125,
+    "Defense": 60,
+    "Special Atk": 95,
+    "Special Def": 60,
+    "Speed": 105,
+    "BST": 510
+  },
+  "Mightyena": {
+    "abilities": [
+      "Intimidate",
+      "Moxie",
+      "Quick Feet"
+    ],
+    "types": [
+      "Dark"
+    ],
+    "HP": 70,
+    "Attack": 90,
+    "Defense": 70,
+    "Special Atk": 60,
+    "Special Def": 60,
+    "Speed": 70,
+    "BST": 420
+  },
+  "Milotic": {
+    "abilities": [
+      "Marvel Scale",
+      "Cute Charm",
+      "Competitive"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 95,
+    "Attack": 60,
+    "Defense": 79,
+    "Special Atk": 100,
+    "Special Def": 125,
+    "Speed": 81,
+    "BST": 540
+  },
+  "Mimikyu": {
+    "abilities": [
+      "Disguise"
+    ],
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
+    "HP": 55,
+    "Attack": 90,
+    "Defense": 80,
+    "Special Atk": 50,
+    "Special Def": 105,
+    "Speed": 96,
+    "BST": 476
+  },
+  "Minior": {
+    "abilities": [
+      "Shields Down"
+    ],
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 100,
+    "Special Atk": 60,
+    "Special Def": 100,
+    "Speed": 60,
+    "BST": 440
+  },
+  "Minun": {
+    "abilities": [
+      "Minus",
+      "Volt Absorb"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 60,
+    "Attack": 40,
+    "Defense": 50,
+    "Special Atk": 75,
+    "Special Def": 85,
+    "Speed": 95,
+    "BST": 405
+  },
+  "Miraidon": {
+    "abilities": [
+      "Hadron Engine"
+    ],
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
+    "HP": 100,
+    "Attack": 85,
+    "Defense": 100,
+    "Special Atk": 135,
+    "Special Def": 115,
+    "Speed": 135,
+    "BST": 670
+  },
+  "Misdreavus": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Ghost"
+    ],
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 60,
+    "Special Atk": 85,
+    "Special Def": 85,
+    "Speed": 85,
+    "BST": 435
+  },
+  "Mismagius": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Ghost"
+    ],
+    "HP": 60,
+    "Attack": 60,
+    "Defense": 60,
+    "Special Atk": 105,
+    "Special Def": 105,
+    "Speed": 105,
+    "BST": 495
+  },
+  "Moltres": {
+    "abilities": [
+      "Pressure",
+      "Flame Body"
+    ],
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "HP": 90,
+    "Attack": 100,
+    "Defense": 90,
+    "Special Atk": 125,
+    "Special Def": 85,
+    "Speed": 90,
+    "BST": 580
+  },
+  "Moltres-Galar": {
+    "abilities": [
+      "Berserk"
+    ],
+    "types": [
+      "Dark",
+      "Flying"
+    ],
+    "HP": 90,
+    "Attack": 85,
+    "Defense": 90,
+    "Special Atk": 100,
+    "Special Def": 125,
+    "Speed": 90,
+    "BST": 580
+  },
+  "Morpeko": {
+    "abilities": [
+      "Hunger Switch"
+    ],
+    "types": [
+      "Electric",
+      "Dark"
+    ],
+    "HP": 58,
+    "Attack": 95,
+    "Defense": 58,
+    "Special Atk": 70,
+    "Special Def": 58,
+    "Speed": 97,
+    "BST": 436
+  },
+  "Mudsdale": {
+    "abilities": [
+      "Own Tempo",
+      "Inner Focus",
+      "Stamina"
+    ],
+    "types": [
+      "Ground"
+    ],
+    "HP": 100,
+    "Attack": 125,
+    "Defense": 100,
+    "Special Atk": 55,
+    "Special Def": 85,
+    "Speed": 35,
+    "BST": 500
+  },
+  "Muk": {
+    "abilities": [
+      "Stench",
+      "Poison Touch",
+      "Sticky Hold"
+    ],
+    "types": [
+      "Poison"
+    ],
+    "HP": 105,
+    "Attack": 105,
+    "Defense": 75,
+    "Special Atk": 65,
+    "Special Def": 100,
+    "Speed": 50,
+    "BST": 500
+  },
+  "Muk-Alola": {
+    "abilities": [
+      "Poison Touch",
+      "Power of Alchemy",
+      "Gluttony"
+    ],
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "HP": 105,
+    "Attack": 105,
+    "Defense": 75,
+    "Special Atk": 65,
+    "Special Def": 100,
+    "Speed": 50,
+    "BST": 500
+  },
+  "Munkidori": {
+    "abilities": [
+      "Toxic Chain",
+      "Frisk"
+    ],
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "HP": 88,
+    "Attack": 75,
+    "Defense": 66,
+    "Special Atk": 130,
+    "Special Def": 90,
+    "Speed": 106,
+    "BST": 555
+  },
+  "Necrozma": {
+    "abilities": [
+      "Prism Armor"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 97,
+    "Attack": 107,
+    "Defense": 101,
+    "Special Atk": 127,
+    "Special Def": 89,
+    "Speed": 79,
+    "BST": 600
+  },
+  "Necrozma-Dawn-Wings": {
+    "abilities": [
+      "Prism Armor"
+    ],
+    "types": [
+      "Psychic",
+      "Ghost"
+    ],
+    "HP": 97,
+    "Attack": 113,
+    "Defense": 109,
+    "Special Atk": 157,
+    "Special Def": 127,
+    "Speed": 77,
+    "BST": 680
+  },
+  "Necrozma-Dusk-Mane": {
+    "abilities": [
+      "Prism Armor"
+    ],
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
+    "HP": 97,
+    "Attack": 157,
+    "Defense": 127,
+    "Special Atk": 113,
+    "Special Def": 109,
+    "Speed": 77,
+    "BST": 680
+  },
+  "Ninetales": {
+    "abilities": [
+      "Flash Fire",
+      "Drought"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "HP": 73,
+    "Attack": 76,
+    "Defense": 75,
+    "Special Atk": 81,
+    "Special Def": 100,
+    "Speed": 100,
+    "BST": 505
+  },
+  "Ninetales-Alola": {
+    "abilities": [
+      "Snow Cloak",
+      "Snow Warning"
+    ],
+    "types": [
+      "Ice",
+      "Fairy"
+    ],
+    "HP": 73,
+    "Attack": 67,
+    "Defense": 75,
+    "Special Atk": 81,
+    "Special Def": 100,
+    "Speed": 109,
+    "BST": 505
+  },
+  "Noctowl": {
+    "abilities": [
+      "Insomnia",
+      "Keen Eye",
+      "Tinted Lens"
+    ],
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "HP": 100,
+    "Attack": 50,
+    "Defense": 50,
+    "Special Atk": 86,
+    "Special Def": 96,
+    "Speed": 70,
+    "BST": 452
+  },
+  "Noivern": {
+    "abilities": [
+      "Frisk",
+      "Telepathy",
+      "Infiltrator"
+    ],
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "HP": 85,
+    "Attack": 70,
+    "Defense": 80,
+    "Special Atk": 97,
+    "Special Def": 80,
+    "Speed": 123,
+    "BST": 535
+  },
+  "Ogerpon": {
+    "abilities": [
+      "Defiant"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 84,
+    "Special Atk": 60,
+    "Special Def": 96,
+    "Speed": 110,
+    "BST": 550
+  },
+  "Ogerpon-Cornerstone": {
+    "abilities": [
+      "Sturdy",
+      "Embody Aspect"
+    ],
+    "types": [
+      "Grass",
+      "Rock"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 84,
+    "Special Atk": 60,
+    "Special Def": 96,
+    "Speed": 110,
+    "BST": 550
+  },
+  "Ogerpon-Hearthflame": {
+    "abilities": [
+      "Mold Breaker",
+      "Embody Aspect"
+    ],
+    "types": [
+      "Grass",
+      "Fire"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 84,
+    "Special Atk": 60,
+    "Special Def": 96,
+    "Speed": 110,
+    "BST": 550
+  },
+  "Ogerpon-Wellspring": {
+    "abilities": [
+      "Water Absorb",
+      "Embody Aspect"
+    ],
+    "types": [
+      "Grass",
+      "Water"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 84,
+    "Special Atk": 60,
+    "Special Def": 96,
+    "Speed": 110,
+    "BST": 550
+  },
+  "Oinkologne": {
+    "abilities": [
+      "Lingering Aroma",
+      "Gluttony",
+      "Thick Fat"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 110,
+    "Attack": 100,
+    "Defense": 75,
+    "Special Atk": 59,
+    "Special Def": 80,
+    "Speed": 65,
+    "BST": 489
+  },
+  "Oinkologne-F": {
+    "abilities": [
+      "Aroma Veil",
+      "Gluttony",
+      "Thick Fat"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 115,
+    "Attack": 90,
+    "Defense": 70,
+    "Special Atk": 59,
+    "Special Def": 90,
+    "Speed": 65,
+    "BST": 489
+  },
+  "Okidogi": {
+    "abilities": [
+      "Toxic Chain",
+      "Guard Dog"
+    ],
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "HP": 88,
+    "Attack": 128,
+    "Defense": 115,
+    "Special Atk": 58,
+    "Special Def": 86,
+    "Speed": 80,
+    "BST": 555
+  },
+  "Oranguru": {
+    "abilities": [
+      "Inner Focus",
+      "Telepathy",
+      "Symbiosis"
+    ],
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "HP": 90,
+    "Attack": 60,
+    "Defense": 80,
+    "Special Atk": 90,
+    "Special Def": 110,
+    "Speed": 60,
+    "BST": 490
+  },
+  "Oricorio": {
+    "abilities": [
+      "Dancer"
+    ],
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "HP": 75,
+    "Attack": 70,
+    "Defense": 70,
+    "Special Atk": 98,
+    "Special Def": 70,
+    "Speed": 93,
+    "BST": 476
+  },
+  "Oricorio-Pau": {
+    "abilities": [
+      "Dancer"
+    ],
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "HP": 75,
+    "Attack": 70,
+    "Defense": 70,
+    "Special Atk": 98,
+    "Special Def": 70,
+    "Speed": 93,
+    "BST": 476
+  },
+  "Oricorio-Pom-Pom": {
+    "abilities": [
+      "Dancer"
+    ],
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "HP": 75,
+    "Attack": 70,
+    "Defense": 70,
+    "Special Atk": 98,
+    "Special Def": 70,
+    "Speed": 93,
+    "BST": 476
+  },
+  "Oricorio-Sensu": {
+    "abilities": [
+      "Dancer"
+    ],
+    "types": [
+      "Ghost",
+      "Flying"
+    ],
+    "HP": 75,
+    "Attack": 70,
+    "Defense": 70,
+    "Special Atk": 98,
+    "Special Def": 70,
+    "Speed": 93,
+    "BST": 476
+  },
+  "Orthworm": {
+    "abilities": [
+      "Earth Eater",
+      "Sand Veil"
+    ],
+    "types": [
+      "Steel"
+    ],
+    "HP": 70,
+    "Attack": 85,
+    "Defense": 145,
+    "Special Atk": 60,
+    "Special Def": 55,
+    "Speed": 65,
+    "BST": 480
+  },
+  "Overqwil": {
+    "abilities": [
+      "Poison Point",
+      "Intimidate",
+      "Swift Swim"
+    ],
+    "types": [
+      "Dark",
+      "Poison"
+    ],
+    "HP": 85,
+    "Attack": 115,
+    "Defense": 95,
+    "Special Atk": 65,
+    "Special Def": 65,
+    "Speed": 85,
+    "BST": 510
+  },
+  "Pachirisu": {
+    "abilities": [
+      "Run Away",
+      "Volt Absorb",
+      "Pickup"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 60,
+    "Attack": 45,
+    "Defense": 70,
+    "Special Atk": 45,
+    "Special Def": 90,
+    "Speed": 95,
+    "BST": 405
+  },
+  "Palafin": {
+    "abilities": [
+      "Zero to Hero"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 100,
+    "Attack": 160,
+    "Defense": 97,
+    "Special Atk": 106,
+    "Special Def": 87,
+    "Speed": 100,
+    "BST": 650
+  },
+  "Palkia": {
+    "abilities": [
+      "Pressure",
+      "Telepathy"
+    ],
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "HP": 90,
+    "Attack": 120,
+    "Defense": 100,
+    "Special Atk": 150,
+    "Special Def": 120,
+    "Speed": 100,
+    "BST": 680
+  },
+  "Palkia-Origin": {
+    "abilities": [
+      "Pressure",
+      "Telepathy"
+    ],
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "HP": 90,
+    "Attack": 100,
+    "Defense": 100,
+    "Special Atk": 150,
+    "Special Def": 120,
+    "Speed": 120,
+    "BST": 680
+  },
+  "Palossand": {
+    "abilities": [
+      "Water Compaction"
+    ],
+    "types": [
+      "Ghost",
+      "Ground"
+    ],
+    "HP": 85,
+    "Attack": 75,
+    "Defense": 110,
+    "Special Atk": 100,
+    "Special Def": 75,
+    "Speed": 35,
+    "BST": 480
+  },
+  "Passimian": {
+    "abilities": [
+      "Receiver",
+      "Defiant"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 100,
+    "Attack": 120,
+    "Defense": 90,
+    "Special Atk": 40,
+    "Special Def": 60,
+    "Speed": 80,
+    "BST": 490
+  },
+  "Pawmot": {
+    "abilities": [
+      "Volt Absorb",
+      "Iron Fist",
+      "Natural Cure"
+    ],
+    "types": [
+      "Electric",
+      "Fighting"
+    ],
+    "HP": 70,
+    "Attack": 115,
+    "Defense": 70,
+    "Special Atk": 70,
+    "Special Def": 60,
+    "Speed": 105,
+    "BST": 490
+  },
+  "Pecharunt": {
+    "abilities": [
+      "Poison Puppeteer"
+    ],
+    "types": [
+      "Poison",
+      "Ghost"
+    ],
+    "HP": 88,
+    "Attack": 88,
+    "Defense": 160,
+    "Special Atk": 88,
+    "Special Def": 88,
+    "Speed": 88,
+    "BST": 600
+  },
+  "Pelipper": {
+    "abilities": [
+      "Keen Eye",
+      "Rain Dish",
+      "Drizzle"
+    ],
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 100,
+    "Special Atk": 95,
+    "Special Def": 70,
+    "Speed": 65,
+    "BST": 440
+  },
+  "Perrserker": {
+    "abilities": [
+      "Battle Armor",
+      "Steely Spirit",
+      "Tough Claws"
+    ],
+    "types": [
+      "Steel"
+    ],
+    "HP": 70,
+    "Attack": 110,
+    "Defense": 100,
+    "Special Atk": 50,
+    "Special Def": 60,
+    "Speed": 50,
+    "BST": 440
+  },
+  "Persian": {
+    "abilities": [
+      "Limber",
+      "Technician",
+      "Unnerve"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 65,
+    "Attack": 70,
+    "Defense": 60,
+    "Special Atk": 65,
+    "Special Def": 65,
+    "Speed": 115,
+    "BST": 440
+  },
+  "Persian-Alola": {
+    "abilities": [
+      "Fur Coat",
+      "Rattled",
+      "Technician"
+    ],
+    "types": [
+      "Dark"
+    ],
+    "HP": 65,
+    "Attack": 60,
+    "Defense": 60,
+    "Special Atk": 75,
+    "Special Def": 65,
+    "Speed": 115,
+    "BST": 440
+  },
+  "Phione": {
+    "abilities": [
+      "Hydration"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 80,
+    "Special Atk": 80,
+    "Special Def": 80,
+    "Speed": 80,
+    "BST": 480
+  },
+  "Pikachu": {
+    "abilities": [
+      "Static",
+      "Lightning Rod"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 35,
+    "Attack": 55,
+    "Defense": 40,
+    "Special Atk": 50,
+    "Special Def": 50,
+    "Speed": 90,
+    "BST": 320
+  },
+  "Piloswine": {
+    "abilities": [
+      "Oblivious",
+      "Thick Fat",
+      "Snow Cloak"
+    ],
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 80,
+    "Special Atk": 60,
+    "Special Def": 60,
+    "Speed": 50,
+    "BST": 450
+  },
+  "Pincurchin": {
+    "abilities": [
+      "Lightning Rod",
+      "Electric Surge"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 48,
+    "Attack": 101,
+    "Defense": 95,
+    "Special Atk": 91,
+    "Special Def": 85,
+    "Speed": 15,
+    "BST": 435
+  },
+  "Plusle": {
+    "abilities": [
+      "Plus",
+      "Lightning Rod"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 40,
+    "Special Atk": 85,
+    "Special Def": 75,
+    "Speed": 95,
+    "BST": 405
+  },
+  "Politoed": {
+    "abilities": [
+      "Water Absorb",
+      "Drizzle",
+      "Damp"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 90,
+    "Attack": 75,
+    "Defense": 75,
+    "Special Atk": 90,
+    "Special Def": 100,
+    "Speed": 70,
+    "BST": 500
+  },
+  "Poliwrath": {
+    "abilities": [
+      "Water Absorb",
+      "Swift Swim",
+      "Damp"
+    ],
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "HP": 90,
+    "Attack": 95,
+    "Defense": 95,
+    "Special Atk": 70,
+    "Special Def": 90,
+    "Speed": 70,
+    "BST": 510
+  },
+  "Polteageist": {
+    "abilities": [
+      "Weak Armor",
+      "Cursed Body"
+    ],
+    "types": [
+      "Ghost"
+    ],
+    "HP": 60,
+    "Attack": 65,
+    "Defense": 65,
+    "Special Atk": 134,
+    "Special Def": 114,
+    "Speed": 70,
+    "BST": 508
+  },
+  "Porygon-Z": {
+    "abilities": [
+      "Adaptability",
+      "Download",
+      "Analytic"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 85,
+    "Attack": 80,
+    "Defense": 70,
+    "Special Atk": 135,
+    "Special Def": 75,
+    "Speed": 90,
+    "BST": 535
+  },
+  "Porygon2": {
+    "abilities": [
+      "Trace",
+      "Download",
+      "Analytic"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 85,
+    "Attack": 80,
+    "Defense": 90,
+    "Special Atk": 105,
+    "Special Def": 95,
+    "Speed": 60,
+    "BST": 515
+  },
+  "Primarina": {
+    "abilities": [
+      "Torrent",
+      "Liquid Voice"
+    ],
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "HP": 80,
+    "Attack": 74,
+    "Defense": 74,
+    "Special Atk": 126,
+    "Special Def": 116,
+    "Speed": 60,
+    "BST": 530
+  },
+  "Probopass": {
+    "abilities": [
+      "Sturdy",
+      "Sand Force",
+      "Magnet Pull"
+    ],
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "HP": 60,
+    "Attack": 55,
+    "Defense": 145,
+    "Special Atk": 75,
+    "Special Def": 150,
+    "Speed": 40,
+    "BST": 525
+  },
+  "Pyroar": {
+    "abilities": [
+      "Rivalry",
+      "Unnerve",
+      "Moxie"
+    ],
+    "types": [
+      "Fire",
+      "Normal"
+    ],
+    "HP": 86,
+    "Attack": 68,
+    "Defense": 72,
+    "Special Atk": 109,
+    "Special Def": 66,
+    "Speed": 106,
+    "BST": 507
+  },
+  "Quagsire": {
+    "abilities": [
+      "Damp",
+      "Unaware",
+      "Water Absorb"
+    ],
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "HP": 95,
+    "Attack": 85,
+    "Defense": 85,
+    "Special Atk": 65,
+    "Special Def": 65,
+    "Speed": 35,
+    "BST": 430
+  },
+  "Quaquaval": {
+    "abilities": [
+      "Torrent",
+      "Moxie"
+    ],
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "HP": 85,
+    "Attack": 120,
+    "Defense": 80,
+    "Special Atk": 85,
+    "Special Def": 75,
+    "Speed": 85,
+    "BST": 530
+  },
+  "Qwilfish": {
+    "abilities": [
+      "Poison Point",
+      "Intimidate",
+      "Swift Swim"
+    ],
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "HP": 65,
+    "Attack": 95,
+    "Defense": 85,
+    "Special Atk": 55,
+    "Special Def": 55,
+    "Speed": 85,
+    "BST": 440
+  },
+  "Qwilfish-Hisui": {
+    "abilities": [
+      "Poison Point",
+      "Intimidate",
+      "Swift Swim"
+    ],
+    "types": [
+      "Dark",
+      "Poison"
+    ],
+    "HP": 65,
+    "Attack": 95,
+    "Defense": 85,
+    "Special Atk": 55,
+    "Special Def": 55,
+    "Speed": 85,
+    "BST": 440
+  },
+  "Rabsca": {
+    "abilities": [
+      "Synchronize",
+      "Telepathy"
+    ],
+    "types": [
+      "Bug",
+      "Psychic"
+    ],
+    "HP": 75,
+    "Attack": 50,
+    "Defense": 85,
+    "Special Atk": 115,
+    "Special Def": 100,
+    "Speed": 45,
+    "BST": 470
+  },
+  "Raging-Bolt": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
+    "HP": 125,
+    "Attack": 73,
+    "Defense": 91,
+    "Special Atk": 137,
+    "Special Def": 89,
+    "Speed": 75,
+    "BST": 590
+  },
+  "Raichu": {
+    "abilities": [
+      "Static",
+      "Lightning Rod"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 60,
+    "Attack": 90,
+    "Defense": 55,
+    "Special Atk": 90,
+    "Special Def": 80,
+    "Speed": 110,
+    "BST": 485
+  },
+  "Raichu-Alola": {
+    "abilities": [
+      "Surge Surfer"
+    ],
+    "types": [
+      "Electric",
+      "Psychic"
+    ],
+    "HP": 60,
+    "Attack": 85,
+    "Defense": 50,
+    "Special Atk": 95,
+    "Special Def": 85,
+    "Speed": 110,
+    "BST": 485
+  },
+  "Raikou": {
+    "abilities": [
+      "Pressure",
+      "Inner Focus"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 90,
+    "Attack": 85,
+    "Defense": 75,
+    "Special Atk": 115,
+    "Special Def": 100,
+    "Speed": 115,
+    "BST": 580
+  },
+  "Rampardos": {
+    "abilities": [
+      "Mold Breaker",
+      "Sheer Force"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 97,
+    "Attack": 165,
+    "Defense": 60,
+    "Special Atk": 65,
+    "Special Def": 50,
+    "Speed": 58,
+    "BST": 495
+  },
+  "Rayquaza": {
+    "abilities": [
+      "Air Lock"
+    ],
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "HP": 105,
+    "Attack": 150,
+    "Defense": 90,
+    "Special Atk": 150,
+    "Special Def": 90,
+    "Speed": 95,
+    "BST": 680
+  },
+  "Regice": {
+    "abilities": [
+      "Clear Body",
+      "Ice Body"
+    ],
+    "types": [
+      "Ice"
+    ],
+    "HP": 80,
+    "Attack": 50,
+    "Defense": 100,
+    "Special Atk": 100,
+    "Special Def": 200,
+    "Speed": 50,
+    "BST": 580
+  },
+  "Regidrago": {
+    "abilities": [
+      "Dragon's Maw"
+    ],
+    "types": [
+      "Dragon"
+    ],
+    "HP": 200,
+    "Attack": 100,
+    "Defense": 50,
+    "Special Atk": 100,
+    "Special Def": 50,
+    "Speed": 80,
+    "BST": 580
+  },
+  "Regieleki": {
+    "abilities": [
+      "Transistor"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 50,
+    "Special Atk": 100,
+    "Special Def": 50,
+    "Speed": 200,
+    "BST": 580
+  },
+  "Regigigas": {
+    "abilities": [
+      "Slow Start"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 110,
+    "Attack": 160,
+    "Defense": 110,
+    "Special Atk": 80,
+    "Special Def": 110,
+    "Speed": 100,
+    "BST": 670
+  },
+  "Regirock": {
+    "abilities": [
+      "Clear Body",
+      "Sturdy"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 200,
+    "Special Atk": 50,
+    "Special Def": 100,
+    "Speed": 50,
+    "BST": 580
+  },
+  "Registeel": {
+    "abilities": [
+      "Clear Body",
+      "Light Metal"
+    ],
+    "types": [
+      "Steel"
+    ],
+    "HP": 80,
+    "Attack": 75,
+    "Defense": 150,
+    "Special Atk": 75,
+    "Special Def": 150,
+    "Speed": 50,
+    "BST": 580
+  },
+  "Reshiram": {
+    "abilities": [
+      "Turboblaze"
+    ],
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "HP": 100,
+    "Attack": 120,
+    "Defense": 100,
+    "Special Atk": 150,
+    "Special Def": 120,
+    "Speed": 90,
+    "BST": 680
+  },
+  "Reuniclus": {
+    "abilities": [
+      "Overcoat",
+      "Regenerator",
+      "Magic Guard"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 110,
+    "Attack": 65,
+    "Defense": 75,
+    "Special Atk": 125,
+    "Special Def": 85,
+    "Speed": 30,
+    "BST": 490
+  },
+  "Revavroom": {
+    "abilities": [
+      "Overcoat",
+      "Filter"
+    ],
+    "types": [
+      "Steel",
+      "Poison"
+    ],
+    "HP": 80,
+    "Attack": 119,
+    "Defense": 90,
+    "Special Atk": 54,
+    "Special Def": 67,
+    "Speed": 90,
+    "BST": 500
+  },
+  "Rhydon": {
+    "abilities": [
+      "Lightning Rod",
+      "Reckless",
+      "Rock Head"
+    ],
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "HP": 105,
+    "Attack": 130,
+    "Defense": 120,
+    "Special Atk": 45,
+    "Special Def": 45,
+    "Speed": 40,
+    "BST": 485
+  },
+  "Rhyperior": {
+    "abilities": [
+      "Lightning Rod",
+      "Reckless",
+      "Solid Rock"
+    ],
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "HP": 115,
+    "Attack": 140,
+    "Defense": 130,
+    "Special Atk": 55,
+    "Special Def": 55,
+    "Speed": 40,
+    "BST": 535
+  },
+  "Ribombee": {
+    "abilities": [
+      "Honey Gather",
+      "Sweet Veil",
+      "Shield Dust"
+    ],
+    "types": [
+      "Bug",
+      "Fairy"
+    ],
+    "HP": 60,
+    "Attack": 55,
+    "Defense": 60,
+    "Special Atk": 95,
+    "Special Def": 70,
+    "Speed": 124,
+    "BST": 464
+  },
+  "Rillaboom": {
+    "abilities": [
+      "Overgrow",
+      "Grassy Surge"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 100,
+    "Attack": 125,
+    "Defense": 90,
+    "Special Atk": 60,
+    "Special Def": 70,
+    "Speed": 85,
+    "BST": 530
+  },
+  "Roaring-Moon": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Dragon",
+      "Dark"
+    ],
+    "HP": 105,
+    "Attack": 139,
+    "Defense": 71,
+    "Special Atk": 55,
+    "Special Def": 101,
+    "Speed": 119,
+    "BST": 590
+  },
+  "Rotom": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Electric",
+      "Ghost"
+    ],
+    "HP": 50,
+    "Attack": 50,
+    "Defense": 77,
+    "Special Atk": 95,
+    "Special Def": 77,
+    "Speed": 91,
+    "BST": 440
+  },
+  "Rotom-Fan": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "HP": 50,
+    "Attack": 65,
+    "Defense": 107,
+    "Special Atk": 105,
+    "Special Def": 107,
+    "Speed": 86,
+    "BST": 520
+  },
+  "Rotom-Frost": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Electric",
+      "Ice"
+    ],
+    "HP": 50,
+    "Attack": 65,
+    "Defense": 107,
+    "Special Atk": 105,
+    "Special Def": 107,
+    "Speed": 86,
+    "BST": 520
+  },
+  "Rotom-Heat": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Electric",
+      "Fire"
+    ],
+    "HP": 50,
+    "Attack": 65,
+    "Defense": 107,
+    "Special Atk": 105,
+    "Special Def": 107,
+    "Speed": 86,
+    "BST": 520
+  },
+  "Rotom-Mow": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Electric",
+      "Grass"
+    ],
+    "HP": 50,
+    "Attack": 65,
+    "Defense": 107,
+    "Special Atk": 105,
+    "Special Def": 107,
+    "Speed": 86,
+    "BST": 520
+  },
+  "Rotom-Wash": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Electric",
+      "Water"
+    ],
+    "HP": 50,
+    "Attack": 65,
+    "Defense": 107,
+    "Special Atk": 105,
+    "Special Def": 107,
+    "Speed": 86,
+    "BST": 520
+  },
+  "Sableye": {
+    "abilities": [
+      "Keen Eye",
+      "Prankster",
+      "Stall"
+    ],
+    "types": [
+      "Dark",
+      "Ghost"
+    ],
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 75,
+    "Special Atk": 65,
+    "Special Def": 65,
+    "Speed": 50,
+    "BST": 380
+  },
+  "Salamence": {
+    "abilities": [
+      "Intimidate",
+      "Moxie"
+    ],
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "HP": 95,
+    "Attack": 135,
+    "Defense": 80,
+    "Special Atk": 110,
+    "Special Def": 80,
+    "Speed": 100,
+    "BST": 600
+  },
+  "Salazzle": {
+    "abilities": [
+      "Corrosion",
+      "Oblivious"
+    ],
+    "types": [
+      "Poison",
+      "Fire"
+    ],
+    "HP": 68,
+    "Attack": 64,
+    "Defense": 60,
+    "Special Atk": 111,
+    "Special Def": 60,
+    "Speed": 117,
+    "BST": 480
+  },
+  "Samurott": {
+    "abilities": [
+      "Torrent",
+      "Shell Armor"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 95,
+    "Attack": 100,
+    "Defense": 85,
+    "Special Atk": 108,
+    "Special Def": 70,
+    "Speed": 70,
+    "BST": 528
+  },
+  "Samurott-Hisui": {
+    "abilities": [
+      "Torrent",
+      "Sharpness"
+    ],
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "HP": 90,
+    "Attack": 108,
+    "Defense": 80,
+    "Special Atk": 100,
+    "Special Def": 65,
+    "Speed": 85,
+    "BST": 528
+  },
+  "Sandaconda": {
+    "abilities": [
+      "Sand Spit",
+      "Sand Veil",
+      "Shed Skin"
+    ],
+    "types": [
+      "Ground"
+    ],
+    "HP": 72,
+    "Attack": 107,
+    "Defense": 125,
+    "Special Atk": 65,
+    "Special Def": 70,
+    "Speed": 71,
+    "BST": 510
+  },
+  "Sandslash": {
+    "abilities": [
+      "Sand Veil",
+      "Sand Rush"
+    ],
+    "types": [
+      "Ground"
+    ],
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 110,
+    "Special Atk": 45,
+    "Special Def": 55,
+    "Speed": 65,
+    "BST": 450
+  },
+  "Sandslash-Alola": {
+    "abilities": [
+      "Snow Cloak",
+      "Slush Rush"
+    ],
+    "types": [
+      "Ice",
+      "Steel"
+    ],
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 120,
+    "Special Atk": 25,
+    "Special Def": 65,
+    "Speed": 65,
+    "BST": 450
+  },
+  "Sandy-Shocks": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Electric",
+      "Ground"
+    ],
+    "HP": 85,
+    "Attack": 81,
+    "Defense": 97,
+    "Special Atk": 121,
+    "Special Def": 85,
+    "Speed": 101,
+    "BST": 570
+  },
+  "Sawsbuck": {
+    "abilities": [
+      "Chlorophyll",
+      "Sap Sipper",
+      "Serene Grace"
+    ],
+    "types": [
+      "Normal",
+      "Grass"
+    ],
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 70,
+    "Special Atk": 60,
+    "Special Def": 70,
+    "Speed": 95,
+    "BST": 475
+  },
+  "Sceptile": {
+    "abilities": [
+      "Overgrow",
+      "Unburden"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 70,
+    "Attack": 85,
+    "Defense": 65,
+    "Special Atk": 105,
+    "Special Def": 85,
+    "Speed": 120,
+    "BST": 530
+  },
+  "Scizor": {
+    "abilities": [
+      "Swarm",
+      "Light Metal",
+      "Technician"
+    ],
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "HP": 70,
+    "Attack": 130,
+    "Defense": 100,
+    "Special Atk": 55,
+    "Special Def": 80,
+    "Speed": 65,
+    "BST": 500
+  },
+  "Scovillain": {
+    "abilities": [
+      "Chlorophyll",
+      "Moody",
+      "Insomnia"
+    ],
+    "types": [
+      "Grass",
+      "Fire"
+    ],
+    "HP": 65,
+    "Attack": 108,
+    "Defense": 65,
+    "Special Atk": 108,
+    "Special Def": 65,
+    "Speed": 75,
+    "BST": 486
+  },
+  "Scrafty": {
+    "abilities": [
+      "Shed Skin",
+      "Intimidate",
+      "Moxie"
+    ],
+    "types": [
+      "Dark",
+      "Fighting"
+    ],
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 115,
+    "Special Atk": 45,
+    "Special Def": 115,
+    "Speed": 58,
+    "BST": 488
+  },
+  "Scream-Tail": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Fairy",
+      "Psychic"
+    ],
+    "HP": 115,
+    "Attack": 65,
+    "Defense": 99,
+    "Special Atk": 65,
+    "Special Def": 115,
+    "Speed": 111,
+    "BST": 570
+  },
+  "Scyther": {
+    "abilities": [
+      "Swarm",
+      "Steadfast",
+      "Technician"
+    ],
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "HP": 70,
+    "Attack": 110,
+    "Defense": 80,
+    "Special Atk": 55,
+    "Special Def": 80,
+    "Speed": 105,
+    "BST": 500
+  },
+  "Serperior": {
+    "abilities": [
+      "Overgrow",
+      "Contrary"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 75,
+    "Attack": 75,
+    "Defense": 95,
+    "Special Atk": 75,
+    "Special Def": 95,
+    "Speed": 113,
+    "BST": 528
+  },
+  "Seviper": {
+    "abilities": [
+      "Shed Skin",
+      "Infiltrator"
+    ],
+    "types": [
+      "Poison"
+    ],
+    "HP": 73,
+    "Attack": 100,
+    "Defense": 60,
+    "Special Atk": 100,
+    "Special Def": 60,
+    "Speed": 65,
+    "BST": 458
+  },
+  "Shaymin": {
+    "abilities": [
+      "Natural Cure"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 100,
+    "Attack": 100,
+    "Defense": 100,
+    "Special Atk": 100,
+    "Special Def": 100,
+    "Speed": 100,
+    "BST": 600
+  },
+  "Shaymin-Sky": {
+    "abilities": [
+      "Serene Grace"
+    ],
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "HP": 100,
+    "Attack": 103,
+    "Defense": 75,
+    "Special Atk": 120,
+    "Special Def": 75,
+    "Speed": 127,
+    "BST": 600
+  },
+  "Shiftry": {
+    "abilities": [
+      "Chlorophyll",
+      "Pickpocket",
+      "Wind Rider"
+    ],
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "HP": 90,
+    "Attack": 100,
+    "Defense": 60,
+    "Special Atk": 90,
+    "Special Def": 60,
+    "Speed": 80,
+    "BST": 480
+  },
+  "Sinistcha": {
+    "abilities": [
+      "Hospitality",
+      "Heatproof"
+    ],
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "HP": 71,
+    "Attack": 60,
+    "Defense": 106,
+    "Special Atk": 121,
+    "Special Def": 80,
+    "Speed": 70,
+    "BST": 508
+  },
+  "Skarmory": {
+    "abilities": [
+      "Keen Eye",
+      "Weak Armor",
+      "Sturdy"
+    ],
+    "types": [
+      "Steel",
+      "Flying"
+    ],
+    "HP": 65,
+    "Attack": 80,
+    "Defense": 140,
+    "Special Atk": 40,
+    "Special Def": 70,
+    "Speed": 70,
+    "BST": 465
+  },
+  "Skeledirge": {
+    "abilities": [
+      "Blaze",
+      "Unaware"
+    ],
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "HP": 104,
+    "Attack": 75,
+    "Defense": 100,
+    "Special Atk": 110,
+    "Special Def": 75,
+    "Speed": 66,
+    "BST": 530
+  },
+  "Skuntank": {
+    "abilities": [
+      "Stench",
+      "Keen Eye",
+      "Aftermath"
+    ],
+    "types": [
+      "Poison",
+      "Dark"
+    ],
+    "HP": 103,
+    "Attack": 93,
+    "Defense": 67,
+    "Special Atk": 71,
+    "Special Def": 61,
+    "Speed": 84,
+    "BST": 479
+  },
+  "Slaking": {
+    "abilities": [
+      "Truant"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 150,
+    "Attack": 160,
+    "Defense": 100,
+    "Special Atk": 95,
+    "Special Def": 65,
+    "Speed": 100,
+    "BST": 670
+  },
+  "Slither-Wing": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Bug",
+      "Fighting"
+    ],
+    "HP": 85,
+    "Attack": 135,
+    "Defense": 79,
+    "Special Atk": 85,
+    "Special Def": 105,
+    "Speed": 81,
+    "BST": 570
+  },
+  "Slowbro": {
+    "abilities": [
+      "Oblivious",
+      "Regenerator",
+      "Own Tempo"
+    ],
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "HP": 95,
+    "Attack": 75,
+    "Defense": 110,
+    "Special Atk": 100,
+    "Special Def": 80,
+    "Speed": 30,
+    "BST": 490
+  },
+  "Slowbro-Galar": {
+    "abilities": [
+      "Quick Draw",
+      "Regenerator",
+      "Own Tempo"
+    ],
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "HP": 95,
+    "Attack": 100,
+    "Defense": 95,
+    "Special Atk": 100,
+    "Special Def": 70,
+    "Speed": 30,
+    "BST": 490
+  },
+  "Slowking": {
+    "abilities": [
+      "Oblivious",
+      "Regenerator",
+      "Own Tempo"
+    ],
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "HP": 95,
+    "Attack": 75,
+    "Defense": 80,
+    "Special Atk": 100,
+    "Special Def": 110,
+    "Speed": 30,
+    "BST": 490
+  },
+  "Slowking-Galar": {
+    "abilities": [
+      "Curious Medicine",
+      "Regenerator",
+      "Own Tempo"
+    ],
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "HP": 95,
+    "Attack": 65,
+    "Defense": 80,
+    "Special Atk": 110,
+    "Special Def": 110,
+    "Speed": 30,
+    "BST": 490
+  },
+  "Smeargle": {
+    "abilities": [
+      "Own Tempo",
+      "Technician",
+      "Moody"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 55,
+    "Attack": 20,
+    "Defense": 35,
+    "Special Atk": 20,
+    "Special Def": 45,
+    "Speed": 75,
+    "BST": 250
+  },
+  "Sneasler": {
+    "abilities": [
+      "Pressure",
+      "Poison Touch",
+      "Unburden"
+    ],
+    "types": [
+      "Fighting",
+      "Poison"
+    ],
+    "HP": 80,
+    "Attack": 130,
+    "Defense": 60,
+    "Special Atk": 40,
+    "Special Def": 80,
+    "Speed": 120,
+    "BST": 510
+  },
+  "Snorlax": {
+    "abilities": [
+      "Immunity",
+      "Thick Fat",
+      "Gluttony"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 160,
+    "Attack": 110,
+    "Defense": 65,
+    "Special Atk": 65,
+    "Special Def": 110,
+    "Speed": 30,
+    "BST": 540
+  },
+  "Solgaleo": {
+    "abilities": [
+      "Full Metal Body"
+    ],
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
+    "HP": 137,
+    "Attack": 137,
+    "Defense": 107,
+    "Special Atk": 113,
+    "Special Def": 89,
+    "Speed": 97,
+    "BST": 680
+  },
+  "Spectrier": {
+    "abilities": [
+      "Grim Neigh"
+    ],
+    "types": [
+      "Ghost"
+    ],
+    "HP": 100,
+    "Attack": 65,
+    "Defense": 60,
+    "Special Atk": 145,
+    "Special Def": 80,
+    "Speed": 130,
+    "BST": 580
+  },
+  "Spidops": {
+    "abilities": [
+      "Insomnia",
+      "Stakeout"
+    ],
+    "types": [
+      "Bug"
+    ],
+    "HP": 60,
+    "Attack": 79,
+    "Defense": 92,
+    "Special Atk": 52,
+    "Special Def": 86,
+    "Speed": 35,
+    "BST": 404
+  },
+  "Spiritomb": {
+    "abilities": [
+      "Pressure",
+      "Infiltrator"
+    ],
+    "types": [
+      "Ghost",
+      "Dark"
+    ],
+    "HP": 50,
+    "Attack": 92,
+    "Defense": 108,
+    "Special Atk": 92,
+    "Special Def": 108,
+    "Speed": 35,
+    "BST": 485
+  },
+  "Squawkabilly": {
+    "abilities": [
+      "Intimidate",
+      "Hustle",
+      "Guts"
+    ],
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "HP": 82,
+    "Attack": 96,
+    "Defense": 51,
+    "Special Atk": 45,
+    "Special Def": 51,
+    "Speed": 92,
+    "BST": 417
+  },
+  "Squawkabilly-Blue": {
+    "abilities": [
+      "Intimidate",
+      "Hustle",
+      "Guts"
+    ],
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "HP": 82,
+    "Attack": 96,
+    "Defense": 51,
+    "Special Atk": 45,
+    "Special Def": 51,
+    "Speed": 92,
+    "BST": 417
+  },
+  "Squawkabilly-White": {
+    "abilities": [
+      "Intimidate",
+      "Hustle",
+      "Sheer Force"
+    ],
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "HP": 82,
+    "Attack": 96,
+    "Defense": 51,
+    "Special Atk": 45,
+    "Special Def": 51,
+    "Speed": 92,
+    "BST": 417
+  },
+  "Squawkabilly-Yellow": {
+    "abilities": [
+      "Intimidate",
+      "Hustle",
+      "Sheer Force"
+    ],
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "HP": 82,
+    "Attack": 96,
+    "Defense": 51,
+    "Special Atk": 45,
+    "Special Def": 51,
+    "Speed": 92,
+    "BST": 417
+  },
+  "Staraptor": {
+    "abilities": [
+      "Intimidate",
+      "Reckless"
+    ],
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "HP": 85,
+    "Attack": 120,
+    "Defense": 70,
+    "Special Atk": 50,
+    "Special Def": 60,
+    "Speed": 100,
+    "BST": 485
+  },
+  "Stonjourner": {
+    "abilities": [
+      "Power Spot"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 100,
+    "Attack": 125,
+    "Defense": 135,
+    "Special Atk": 20,
+    "Special Def": 20,
+    "Speed": 70,
+    "BST": 470
+  },
+  "Sudowoodo": {
+    "abilities": [
+      "Sturdy",
+      "Rattled",
+      "Rock Head"
+    ],
+    "types": [
+      "Rock"
+    ],
+    "HP": 70,
+    "Attack": 100,
+    "Defense": 115,
+    "Special Atk": 30,
+    "Special Def": 65,
+    "Speed": 30,
+    "BST": 410
+  },
+  "Suicune": {
+    "abilities": [
+      "Pressure",
+      "Inner Focus"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 100,
+    "Attack": 75,
+    "Defense": 115,
+    "Special Atk": 90,
+    "Special Def": 115,
+    "Speed": 85,
+    "BST": 580
+  },
+  "Sunflora": {
+    "abilities": [
+      "Chlorophyll",
+      "Early Bird",
+      "Solar Power"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 75,
+    "Attack": 75,
+    "Defense": 55,
+    "Special Atk": 105,
+    "Special Def": 85,
+    "Speed": 30,
+    "BST": 425
+  },
+  "Swalot": {
+    "abilities": [
+      "Liquid Ooze",
+      "Gluttony",
+      "Sticky Hold"
+    ],
+    "types": [
+      "Poison"
+    ],
+    "HP": 100,
+    "Attack": 73,
+    "Defense": 83,
+    "Special Atk": 73,
+    "Special Def": 83,
+    "Speed": 55,
+    "BST": 467
+  },
+  "Swampert": {
+    "abilities": [
+      "Torrent",
+      "Damp"
+    ],
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "HP": 100,
+    "Attack": 110,
+    "Defense": 90,
+    "Special Atk": 85,
+    "Special Def": 90,
+    "Speed": 60,
+    "BST": 535
+  },
+  "Swanna": {
+    "abilities": [
+      "Keen Eye",
+      "Hydration",
+      "Big Pecks"
+    ],
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "HP": 75,
+    "Attack": 87,
+    "Defense": 63,
+    "Special Atk": 87,
+    "Special Def": 63,
+    "Speed": 98,
+    "BST": 473
+  },
+  "Sylveon": {
+    "abilities": [
+      "Cute Charm",
+      "Pixilate"
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "HP": 95,
+    "Attack": 65,
+    "Defense": 65,
+    "Special Atk": 110,
+    "Special Def": 130,
+    "Speed": 60,
+    "BST": 525
+  },
+  "Talonflame": {
+    "abilities": [
+      "Flame Body",
+      "Gale Wings"
+    ],
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "HP": 78,
+    "Attack": 81,
+    "Defense": 71,
+    "Special Atk": 74,
+    "Special Def": 69,
+    "Speed": 126,
+    "BST": 499
+  },
+  "Tatsugiri": {
+    "abilities": [
+      "Commander",
+      "Storm Drain"
+    ],
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "HP": 68,
+    "Attack": 50,
+    "Defense": 60,
+    "Special Atk": 120,
+    "Special Def": 95,
+    "Speed": 82,
+    "BST": 475
+  },
+  "Tauros": {
+    "abilities": [
+      "Intimidate",
+      "Anger Point",
+      "Sheer Force"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 95,
+    "Special Atk": 40,
+    "Special Def": 70,
+    "Speed": 110,
+    "BST": 490
+  },
+  "Tauros-Paldea-Aqua": {
+    "abilities": [
+      "Intimidate",
+      "Anger Point",
+      "Cud Chew"
+    ],
+    "types": [
+      "Fighting",
+      "Water"
+    ],
+    "HP": 75,
+    "Attack": 110,
+    "Defense": 105,
+    "Special Atk": 30,
+    "Special Def": 70,
+    "Speed": 100,
+    "BST": 490
+  },
+  "Tauros-Paldea-Blaze": {
+    "abilities": [
+      "Intimidate",
+      "Anger Point",
+      "Cud Chew"
+    ],
+    "types": [
+      "Fighting",
+      "Fire"
+    ],
+    "HP": 75,
+    "Attack": 110,
+    "Defense": 105,
+    "Special Atk": 30,
+    "Special Def": 70,
+    "Speed": 100,
+    "BST": 490
+  },
+  "Tauros-Paldea-Combat": {
+    "abilities": [
+      "Intimidate",
+      "Anger Point",
+      "Cud Chew"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 75,
+    "Attack": 110,
+    "Defense": 105,
+    "Special Atk": 30,
+    "Special Def": 70,
+    "Speed": 100,
+    "BST": 490
+  },
+  "Tentacruel": {
+    "abilities": [
+      "Clear Body",
+      "Rain Dish",
+      "Liquid Ooze"
+    ],
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "HP": 80,
+    "Attack": 70,
+    "Defense": 65,
+    "Special Atk": 80,
+    "Special Def": 120,
+    "Speed": 100,
+    "BST": 515
+  },
+  "Terapagos": {
+    "abilities": [
+      "Tera Shell"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 95,
+    "Attack": 95,
+    "Defense": 110,
+    "Special Atk": 105,
+    "Special Def": 110,
+    "Speed": 85,
+    "BST": 600
+  },
+  "Terrakion": {
+    "abilities": [
+      "Justified"
+    ],
+    "types": [
+      "Rock",
+      "Fighting"
+    ],
+    "HP": 91,
+    "Attack": 129,
+    "Defense": 90,
+    "Special Atk": 72,
+    "Special Def": 90,
+    "Speed": 108,
+    "BST": 580
+  },
+  "Thundurus": {
+    "abilities": [
+      "Prankster",
+      "Defiant"
+    ],
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "HP": 79,
+    "Attack": 115,
+    "Defense": 70,
+    "Special Atk": 125,
+    "Special Def": 80,
+    "Speed": 111,
+    "BST": 580
+  },
+  "Thundurus-Therian": {
+    "abilities": [
+      "Volt Absorb"
+    ],
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "HP": 79,
+    "Attack": 105,
+    "Defense": 70,
+    "Special Atk": 145,
+    "Special Def": 80,
+    "Speed": 101,
+    "BST": 580
+  },
+  "Ting-Lu": {
+    "abilities": [
+      "Vessel of Ruin"
+    ],
+    "types": [
+      "Dark",
+      "Ground"
+    ],
+    "HP": 155,
+    "Attack": 110,
+    "Defense": 125,
+    "Special Atk": 55,
+    "Special Def": 80,
+    "Speed": 45,
+    "BST": 570
+  },
+  "Tinkaton": {
+    "abilities": [
+      "Mold Breaker",
+      "Pickpocket",
+      "Own Tempo"
+    ],
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "HP": 85,
+    "Attack": 75,
+    "Defense": 77,
+    "Special Atk": 70,
+    "Special Def": 105,
+    "Speed": 94,
+    "BST": 506
+  },
+  "Toedscruel": {
+    "abilities": [
+      "Mycelium Might"
+    ],
+    "types": [
+      "Ground",
+      "Grass"
+    ],
+    "HP": 80,
+    "Attack": 70,
+    "Defense": 65,
+    "Special Atk": 80,
+    "Special Def": 120,
+    "Speed": 100,
+    "BST": 515
+  },
+  "Torkoal": {
+    "abilities": [
+      "White Smoke",
+      "Shell Armor",
+      "Drought"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "HP": 70,
+    "Attack": 85,
+    "Defense": 140,
+    "Special Atk": 85,
+    "Special Def": 70,
+    "Speed": 20,
+    "BST": 470
+  },
+  "Tornadus": {
+    "abilities": [
+      "Prankster",
+      "Defiant"
+    ],
+    "types": [
+      "Flying"
+    ],
+    "HP": 79,
+    "Attack": 115,
+    "Defense": 70,
+    "Special Atk": 125,
+    "Special Def": 80,
+    "Speed": 111,
+    "BST": 580
+  },
+  "Tornadus-Therian": {
+    "abilities": [
+      "Regenerator"
+    ],
+    "types": [
+      "Flying"
+    ],
+    "HP": 79,
+    "Attack": 100,
+    "Defense": 80,
+    "Special Atk": 110,
+    "Special Def": 90,
+    "Speed": 121,
+    "BST": 580
+  },
+  "Torterra": {
+    "abilities": [
+      "Overgrow",
+      "Shell Armor"
+    ],
+    "types": [
+      "Grass",
+      "Ground"
+    ],
+    "HP": 95,
+    "Attack": 109,
+    "Defense": 105,
+    "Special Atk": 75,
+    "Special Def": 85,
+    "Speed": 56,
+    "BST": 525
+  },
+  "Toucannon": {
+    "abilities": [
+      "Keen Eye",
+      "Skill Link",
+      "Sheer Force"
+    ],
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "HP": 80,
+    "Attack": 120,
+    "Defense": 75,
+    "Special Atk": 75,
+    "Special Def": 75,
+    "Speed": 60,
+    "BST": 485
+  },
+  "Toxapex": {
+    "abilities": [
+      "Merciless",
+      "Regenerator",
+      "Limber"
+    ],
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "HP": 50,
+    "Attack": 63,
+    "Defense": 152,
+    "Special Atk": 53,
+    "Special Def": 142,
+    "Speed": 35,
+    "BST": 495
+  },
+  "Toxicroak": {
+    "abilities": [
+      "Anticipation",
+      "Poison Touch",
+      "Dry Skin"
+    ],
+    "types": [
+      "Poison",
+      "Fighting"
+    ],
+    "HP": 83,
+    "Attack": 106,
+    "Defense": 65,
+    "Special Atk": 86,
+    "Special Def": 65,
+    "Speed": 85,
+    "BST": 490
+  },
+  "Toxtricity": {
+    "abilities": [
+      "Punk Rock",
+      "Technician",
+      "Plus"
+    ],
+    "types": [
+      "Electric",
+      "Poison"
+    ],
+    "HP": 75,
+    "Attack": 98,
+    "Defense": 70,
+    "Special Atk": 114,
+    "Special Def": 70,
+    "Speed": 75,
+    "BST": 502
+  },
+  "Trevenant": {
+    "abilities": [
+      "Natural Cure",
+      "Harvest",
+      "Frisk"
+    ],
+    "types": [
+      "Ghost",
+      "Grass"
+    ],
+    "HP": 85,
+    "Attack": 110,
+    "Defense": 76,
+    "Special Atk": 65,
+    "Special Def": 82,
+    "Speed": 56,
+    "BST": 474
+  },
+  "Tropius": {
+    "abilities": [
+      "Chlorophyll",
+      "Harvest",
+      "Solar Power"
+    ],
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "HP": 99,
+    "Attack": 68,
+    "Defense": 83,
+    "Special Atk": 72,
+    "Special Def": 87,
+    "Speed": 51,
+    "BST": 460
+  },
+  "Tsareena": {
+    "abilities": [
+      "Leaf Guard",
+      "Sweet Veil",
+      "Queenly Majesty"
+    ],
+    "types": [
+      "Grass"
+    ],
+    "HP": 72,
+    "Attack": 120,
+    "Defense": 98,
+    "Special Atk": 50,
+    "Special Def": 98,
+    "Speed": 72,
+    "BST": 510
+  },
+  "Typhlosion": {
+    "abilities": [
+      "Blaze",
+      "Flash Fire"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "HP": 78,
+    "Attack": 84,
+    "Defense": 78,
+    "Special Atk": 109,
+    "Special Def": 85,
+    "Speed": 100,
+    "BST": 534
+  },
+  "Typhlosion-Hisui": {
+    "abilities": [
+      "Blaze",
+      "Frisk"
+    ],
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "HP": 73,
+    "Attack": 84,
+    "Defense": 78,
+    "Special Atk": 119,
+    "Special Def": 85,
+    "Speed": 95,
+    "BST": 534
+  },
+  "Tyranitar": {
+    "abilities": [
+      "Sand Stream",
+      "Unnerve"
+    ],
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "HP": 100,
+    "Attack": 134,
+    "Defense": 110,
+    "Special Atk": 95,
+    "Special Def": 100,
+    "Speed": 61,
+    "BST": 600
+  },
+  "Umbreon": {
+    "abilities": [
+      "Synchronize",
+      "Inner Focus"
+    ],
+    "types": [
+      "Dark"
+    ],
+    "HP": 95,
+    "Attack": 65,
+    "Defense": 110,
+    "Special Atk": 60,
+    "Special Def": 130,
+    "Speed": 65,
+    "BST": 525
+  },
+  "Ursaluna": {
+    "abilities": [
+      "Guts",
+      "Bulletproof",
+      "Unnerve"
+    ],
+    "types": [
+      "Normal",
+      "Ground"
+    ],
+    "HP": 130,
+    "Attack": 140,
+    "Defense": 105,
+    "Special Atk": 45,
+    "Special Def": 80,
+    "Speed": 50,
+    "BST": 550
+  },
+  "Ursaluna-Bloodmoon": {
+    "abilities": [
+      "Mind's Eye"
+    ],
+    "types": [
+      "Normal",
+      "Ground"
+    ],
+    "HP": 113,
+    "Attack": 70,
+    "Defense": 120,
+    "Special Atk": 135,
+    "Special Def": 65,
+    "Speed": 52,
+    "BST": 555
+  },
+  "Ursaring": {
+    "abilities": [
+      "Guts",
+      "Quick Feet",
+      "Unnerve"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 90,
+    "Attack": 130,
+    "Defense": 75,
+    "Special Atk": 75,
+    "Special Def": 75,
+    "Speed": 55,
+    "BST": 500
+  },
+  "Urshifu": {
+    "abilities": [
+      "Unseen Fist"
+    ],
+    "types": [
+      "Fighting",
+      "Dark"
+    ],
+    "HP": 100,
+    "Attack": 130,
+    "Defense": 100,
+    "Special Atk": 63,
+    "Special Def": 60,
+    "Speed": 97,
+    "BST": 550
+  },
+  "Urshifu-Rapid-Strike": {
+    "abilities": [
+      "Unseen Fist"
+    ],
+    "types": [
+      "Fighting",
+      "Water"
+    ],
+    "HP": 100,
+    "Attack": 130,
+    "Defense": 100,
+    "Special Atk": 63,
+    "Special Def": 60,
+    "Speed": 97,
+    "BST": 550
+  },
+  "Uxie": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Psychic"
+    ],
+    "HP": 75,
+    "Attack": 75,
+    "Defense": 130,
+    "Special Atk": 75,
+    "Special Def": 130,
+    "Speed": 95,
+    "BST": 580
+  },
+  "Vaporeon": {
+    "abilities": [
+      "Water Absorb",
+      "Hydration"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 130,
+    "Attack": 65,
+    "Defense": 60,
+    "Special Atk": 110,
+    "Special Def": 95,
+    "Speed": 65,
+    "BST": 525
+  },
+  "Veluza": {
+    "abilities": [
+      "Mold Breaker",
+      "Sharpness"
+    ],
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "HP": 90,
+    "Attack": 102,
+    "Defense": 73,
+    "Special Atk": 78,
+    "Special Def": 65,
+    "Speed": 70,
+    "BST": 478
+  },
+  "Venomoth": {
+    "abilities": [
+      "Shield Dust",
+      "Wonder Skin",
+      "Tinted Lens"
+    ],
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "HP": 70,
+    "Attack": 65,
+    "Defense": 60,
+    "Special Atk": 90,
+    "Special Def": 75,
+    "Speed": 90,
+    "BST": 450
+  },
+  "Venusaur": {
+    "abilities": [
+      "Overgrow",
+      "Chlorophyll"
+    ],
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 123,
+    "Special Atk": 122,
+    "Special Def": 120,
+    "Speed": 80,
+    "BST": 625
+  },
+  "Vespiquen": {
+    "abilities": [
+      "Pressure",
+      "Unnerve"
+    ],
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "HP": 70,
+    "Attack": 80,
+    "Defense": 102,
+    "Special Atk": 80,
+    "Special Def": 102,
+    "Speed": 40,
+    "BST": 474
+  },
+  "Victreebel": {
+    "abilities": [
+      "Chlorophyll",
+      "Gluttony"
+    ],
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "HP": 80,
+    "Attack": 105,
+    "Defense": 65,
+    "Special Atk": 100,
+    "Special Def": 70,
+    "Speed": 70,
+    "BST": 490
+  },
+  "Vigoroth": {
+    "abilities": [
+      "Vital Spirit"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 80,
+    "Special Atk": 55,
+    "Special Def": 55,
+    "Speed": 90,
+    "BST": 440
+  },
+  "Vikavolt": {
+    "abilities": [
+      "Levitate"
+    ],
+    "types": [
+      "Bug",
+      "Electric"
+    ],
+    "HP": 77,
+    "Attack": 70,
+    "Defense": 90,
+    "Special Atk": 145,
+    "Special Def": 75,
+    "Speed": 43,
+    "BST": 500
+  },
+  "Vileplume": {
+    "abilities": [
+      "Chlorophyll",
+      "Effect Spore"
+    ],
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 85,
+    "Special Atk": 110,
+    "Special Def": 90,
+    "Speed": 50,
+    "BST": 490
+  },
+  "Virizion": {
+    "abilities": [
+      "Justified"
+    ],
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "HP": 91,
+    "Attack": 90,
+    "Defense": 72,
+    "Special Atk": 90,
+    "Special Def": 129,
+    "Speed": 108,
+    "BST": 580
+  },
+  "Vivillon": {
+    "abilities": [
+      "Shield Dust",
+      "Friend Guard",
+      "Compound Eyes"
+    ],
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "HP": 80,
+    "Attack": 52,
+    "Defense": 50,
+    "Special Atk": 90,
+    "Special Def": 50,
+    "Speed": 89,
+    "BST": 411
+  },
+  "Volbeat": {
+    "abilities": [
+      "Illuminate",
+      "Prankster",
+      "Swarm"
+    ],
+    "types": [
+      "Bug"
+    ],
+    "HP": 65,
+    "Attack": 73,
+    "Defense": 75,
+    "Special Atk": 47,
+    "Special Def": 85,
+    "Speed": 85,
+    "BST": 430
+  },
+  "Volcanion": {
+    "abilities": [
+      "Water Absorb"
+    ],
+    "types": [
+      "Fire",
+      "Water"
+    ],
+    "HP": 80,
+    "Attack": 110,
+    "Defense": 120,
+    "Special Atk": 130,
+    "Special Def": 90,
+    "Speed": 70,
+    "BST": 600
+  },
+  "Volcarona": {
+    "abilities": [
+      "Flame Body",
+      "Swarm"
+    ],
+    "types": [
+      "Bug",
+      "Fire"
+    ],
+    "HP": 85,
+    "Attack": 60,
+    "Defense": 65,
+    "Special Atk": 135,
+    "Special Def": 105,
+    "Speed": 100,
+    "BST": 550
+  },
+  "Walking-Wake": {
+    "abilities": [
+      "Protosynthesis"
+    ],
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "HP": 99,
+    "Attack": 83,
+    "Defense": 91,
+    "Special Atk": 125,
+    "Special Def": 83,
+    "Speed": 109,
+    "BST": 590
+  },
+  "Weavile": {
+    "abilities": [
+      "Pressure",
+      "Pickpocket"
+    ],
+    "types": [
+      "Dark",
+      "Ice"
+    ],
+    "HP": 70,
+    "Attack": 120,
+    "Defense": 65,
+    "Special Atk": 45,
+    "Special Def": 85,
+    "Speed": 125,
+    "BST": 510
+  },
+  "Weezing": {
+    "abilities": [
+      "Levitate",
+      "Stench",
+      "Neutralizing Gas"
+    ],
+    "types": [
+      "Poison"
+    ],
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 120,
+    "Special Atk": 85,
+    "Special Def": 70,
+    "Speed": 60,
+    "BST": 490
+  },
+  "Weezing-Galar": {
+    "abilities": [
+      "Levitate",
+      "Misty Surge",
+      "Neutralizing Gas"
+    ],
+    "types": [
+      "Poison",
+      "Fairy"
+    ],
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 120,
+    "Special Atk": 85,
+    "Special Def": 70,
+    "Speed": 60,
+    "BST": 490
+  },
+  "Whimsicott": {
+    "abilities": [
+      "Prankster",
+      "Chlorophyll",
+      "Infiltrator"
+    ],
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "HP": 60,
+    "Attack": 67,
+    "Defense": 85,
+    "Special Atk": 77,
+    "Special Def": 75,
+    "Speed": 116,
+    "BST": 480
+  },
+  "Whiscash": {
+    "abilities": [
+      "Oblivious",
+      "Hydration",
+      "Anticipation"
+    ],
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "HP": 110,
+    "Attack": 78,
+    "Defense": 73,
+    "Special Atk": 76,
+    "Special Def": 71,
+    "Speed": 60,
+    "BST": 468
+  },
+  "Wigglytuff": {
+    "abilities": [
+      "Cute Charm",
+      "Competitive",
+      "Frisk"
+    ],
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "HP": 140,
+    "Attack": 70,
+    "Defense": 45,
+    "Special Atk": 85,
+    "Special Def": 50,
+    "Speed": 45,
+    "BST": 435
+  },
+  "Wo-Chien": {
+    "abilities": [
+      "Tablets of Ruin"
+    ],
+    "types": [
+      "Dark",
+      "Grass"
+    ],
+    "HP": 85,
+    "Attack": 85,
+    "Defense": 100,
+    "Special Atk": 95,
+    "Special Def": 135,
+    "Speed": 70,
+    "BST": 570
+  },
+  "Wugtrio": {
+    "abilities": [
+      "Gooey",
+      "Sand Veil",
+      "Rattled"
+    ],
+    "types": [
+      "Water"
+    ],
+    "HP": 35,
+    "Attack": 100,
+    "Defense": 50,
+    "Special Atk": 50,
+    "Special Def": 70,
+    "Speed": 120,
+    "BST": 425
+  },
+  "Wyrdeer": {
+    "abilities": [
+      "Intimidate",
+      "Frisk",
+      "Sap Sipper"
+    ],
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "HP": 103,
+    "Attack": 105,
+    "Defense": 72,
+    "Special Atk": 105,
+    "Special Def": 75,
+    "Speed": 65,
+    "BST": 525
+  },
+  "Yanmega": {
+    "abilities": [
+      "Speed Boost",
+      "Frisk",
+      "Tinted Lens"
+    ],
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "HP": 86,
+    "Attack": 76,
+    "Defense": 86,
+    "Special Atk": 116,
+    "Special Def": 56,
+    "Speed": 95,
+    "BST": 515
+  },
+  "Zacian": {
+    "abilities": [
+      "Intrepid Sword"
+    ],
+    "types": [
+      "Fairy"
+    ],
+    "HP": 92,
+    "Attack": 120,
+    "Defense": 115,
+    "Special Atk": 80,
+    "Special Def": 115,
+    "Speed": 138,
+    "BST": 660
+  },
+  "Zacian-Crowned": {
+    "abilities": [
+      "Intrepid Sword"
+    ],
+    "types": [
+      "Fairy",
+      "Steel"
+    ],
+    "HP": 92,
+    "Attack": 150,
+    "Defense": 115,
+    "Special Atk": 80,
+    "Special Def": 115,
+    "Speed": 148,
+    "BST": 700
+  },
+  "Zamazenta": {
+    "abilities": [
+      "Dauntless Shield"
+    ],
+    "types": [
+      "Fighting"
+    ],
+    "HP": 92,
+    "Attack": 120,
+    "Defense": 115,
+    "Special Atk": 80,
+    "Special Def": 115,
+    "Speed": 138,
+    "BST": 660
+  },
+  "Zamazenta-Crowned": {
+    "abilities": [
+      "Dauntless Shield"
+    ],
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "HP": 92,
+    "Attack": 120,
+    "Defense": 140,
+    "Special Atk": 80,
+    "Special Def": 140,
+    "Speed": 128,
+    "BST": 700
+  },
+  "Zangoose": {
+    "abilities": [
+      "Immunity",
+      "Toxic Boost"
+    ],
+    "types": [
+      "Normal"
+    ],
+    "HP": 73,
+    "Attack": 115,
+    "Defense": 60,
+    "Special Atk": 60,
+    "Special Def": 60,
+    "Speed": 90,
+    "BST": 458
+  },
+  "Zapdos": {
+    "abilities": [
+      "Pressure",
+      "Static"
+    ],
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "HP": 90,
+    "Attack": 90,
+    "Defense": 85,
+    "Special Atk": 125,
+    "Special Def": 90,
+    "Speed": 100,
+    "BST": 580
+  },
+  "Zapdos-Galar": {
+    "abilities": [
+      "Defiant"
+    ],
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "HP": 90,
+    "Attack": 125,
+    "Defense": 90,
+    "Special Atk": 85,
+    "Special Def": 90,
+    "Speed": 100,
+    "BST": 580
+  },
+  "Zarude": {
+    "abilities": [
+      "Leaf Guard"
+    ],
+    "types": [
+      "Dark",
+      "Grass"
+    ],
+    "HP": 105,
+    "Attack": 120,
+    "Defense": 105,
+    "Special Atk": 70,
+    "Special Def": 95,
+    "Speed": 105,
+    "BST": 600
+  },
+  "Zebstrika": {
+    "abilities": [
+      "Lightning Rod",
+      "Sap Sipper",
+      "Motor Drive"
+    ],
+    "types": [
+      "Electric"
+    ],
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 63,
+    "Special Atk": 80,
+    "Special Def": 63,
+    "Speed": 116,
+    "BST": 497
+  },
+  "Zekrom": {
+    "abilities": [
+      "Teravolt"
+    ],
+    "types": [
+      "Dragon",
+      "Electric"
+    ],
+    "HP": 100,
+    "Attack": 150,
+    "Defense": 120,
+    "Special Atk": 120,
+    "Special Def": 100,
+    "Speed": 90,
+    "BST": 680
+  },
+  "Zoroark": {
+    "abilities": [
+      "Illusion"
+    ],
+    "types": [
+      "Dark"
+    ],
+    "HP": 60,
+    "Attack": 105,
+    "Defense": 60,
+    "Special Atk": 120,
+    "Special Def": 60,
+    "Speed": 105,
+    "BST": 510
+  },
+  "Zoroark-Hisui": {
+    "abilities": [
+      "Illusion"
+    ],
+    "types": [
+      "Normal",
+      "Ghost"
+    ],
+    "HP": 55,
+    "Attack": 100,
+    "Defense": 60,
+    "Special Atk": 125,
+    "Special Def": 60,
+    "Speed": 110,
+    "BST": 510
+  }
+}
