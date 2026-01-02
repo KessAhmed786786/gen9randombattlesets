@@ -35,4 +35,4 @@ def convert_csv_to_pokemon_json(csv_file_path, json_file_path):
         json.dump(pokemon_dict, jsonf, indent=2)
 
 # Run the function
-convert_csv_to_pokemon_json('pokemon_data.csv', 'data.json')
+convert_csv_to_pokemon_json('gen9stats.csv', 'data.json')
