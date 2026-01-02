@@ -6,24 +6,43 @@ const allData = [];
 // FUNCTION: Fetch and push data into a flattened array
 async function loadAndDisplayData() {
   // Fetch the data
-  const response = await fetch("data/gen9sets.json");
-  const rawData = await response.json();
+  const [setsResponse, statsResponse] = await Promise.all([
+    fetch("data/gen9sets.json"),
+    fetch("data/gen9stats.json"),
+  ]);
+
+  const setsData = await setsResponse.json();
+  const statsData = await statsResponse.json();
 
   // New empty array for flattened data only
   const flattenedRows = [];
 
   // Flattening logic
-  for (const [pokemonName, details] of Object.entries(rawData)) {
+  for (const [pokemonName, details] of Object.entries(setsData)) {
+    const baseInfo = statsData[pokemonName] || {
+      types: ["Unknown"],
+      HP: 0,
+      Attack: 0,
+      Defense: 0,
+      SpAtk: 0,
+      SpDef: 0,
+      Speed: 0,
+      BST: 0,
+    };
     for (const [roleName, roleDetails] of Object.entries(details.roles)) {
+      // Create real values for stats, using level, base stats, evs,
+
       // Each role per pokemon creates new object for array
       const flatRow = {
         Pokemon: pokemonName,
+        Type: baseInfo.types.join(" | "),
         Level: details.level,
-        Role: roleName,
-        Abilities: roleDetails.abilities.join(", "),
-        Items: roleDetails.items ? roleDetails.items.join(", ") : "None",
+        BST: baseInfo.BST,
+        Roles: roleName,
+        Abilities: roleDetails.abilities.join("<br>"),
+        Items: roleDetails.items ? roleDetails.items.join("<br>") : "None",
         TeraTypes: roleDetails.teraTypes
-          ? roleDetails.teraTypes.join(", ")
+          ? roleDetails.teraTypes.join("<br>")
           : "N/A",
         Moves: roleDetails.moves ? roleDetails.moves.join("<br>") : "N/A",
       };
@@ -36,9 +55,24 @@ async function loadAndDisplayData() {
 
 // FUNCTION: Search functionality
 function handleSearch(event) {
-  const searchTerm = event.target.value.toLowerCase();
+  const searchTerm = event.target.value.toLowerCase().trim();
+
+  // If no search then show all data and stop
+  if (!searchTerm) {
+    renderTable(allData);
+    return;
+  }
+
   const filteredResults = allData.filter((row) => {
-    return row.Pokemon.toLowerCase().includes(searchTerm);
+    const match = (value) =>
+      value ? String(value).toLowerCase().includes(searchTerm) : false;
+    return (
+      match(row.Pokemon) ||
+      match(row.Role) ||
+      match(row.Type) ||
+      match(row.Abilities) ||
+      match(row.Moves)
+    );
   });
   renderTable(filteredResults);
 }
@@ -53,8 +87,6 @@ function debounce(func, delay) {
     }, delay);
   };
 }
-
-const debouncedSearch = debounce(handleSearch, 200);
 
 // FUNCTION: Generate table for data
 function renderTable(data) {
@@ -101,4 +133,5 @@ function renderTable(data) {
   });
 }
 
+const debouncedSearch = debounce(handleSearch, 100);
 loadAndDisplayData();
