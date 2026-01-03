@@ -30,15 +30,55 @@ async function loadAndDisplayData() {
       BST: 0,
     };
     for (const [roleName, roleDetails] of Object.entries(details.roles)) {
-      // Create real values for stats, using level, base stats, evs,
+      // Create real values for stats, using level, base stats, evs and ivs
+      const baseHP = Number(baseInfo.HP) || 0;
+      const baseAttack = Number(baseInfo.Attack) || 0;
+      const baseDefense = Number(baseInfo.Defense) || 0;
+      const baseSpAtk = Number(baseInfo.SpAtk) || 0;
+      const baseSpDef = Number(baseInfo.SpDef) || 0;
+      const baseSpeed = Number(baseInfo.Speed) || 0;
+      const levelValue = Number(details.level) || 0;
+
+      const evs = roleDetails.evs || {};
+      const ivs = roleDetails.ivs || {};
+
+      const evHP = Number(evs.hp) || 84;
+      const evAttack = evs.atk !== undefined ? Number(evs.atk) : 84;
+      const evSpeed = evs.spe !== undefined ? Number(evs.spe) : 84;
+      const ivAttack = ivs.atk !== undefined ? Number(ivs.atk) : 31;
+      const ivSpeed = ivs.spe !== undefined ? Number(ivs.spe) : 31;
+
+      const realHP = roundDown(
+        ((2 * baseHP + 31 + evHP / 4) * levelValue) / 100 + levelValue + 10
+      );
+      const realAttack = roundDown(
+        ((2 * baseAttack + ivAttack + evAttack / 4) * levelValue) / 100 + 5
+      );
+      const realDefense = roundDown(
+        ((2 * baseDefense + 31 + 84 / 4) * levelValue) / 100 + 5
+      );
+      const realSpAtk = roundDown(
+        ((2 * baseSpAtk + 31 + 84 / 4) * levelValue) / 100 + 5
+      );
+      const realSpDef = roundDown(
+        ((2 * baseSpDef + 31 + 84 / 4) * levelValue) / 100 + 5
+      );
+      const realSpeed = roundDown(
+        ((2 * baseSpeed + ivSpeed + evSpeed / 4) * levelValue) / 100 + 5
+      );
 
       // Each role per pokemon creates new object for array
       const flatRow = {
         Pokemon: pokemonName,
         Type: baseInfo.types.join(" | "),
         Level: details.level,
-        BST: baseInfo.BST,
-        Roles: roleName,
+        HP: realHP.toLocaleString(),
+        Attack: realAttack.toLocaleString(),
+        Defense: realDefense.toLocaleString(),
+        SpAtk: realSpAtk.toLocaleString(),
+        SpDef: realSpDef.toLocaleString(),
+        Speed: realSpeed.toLocaleString(),
+        Role: roleName,
         Abilities: roleDetails.abilities.join("<br>"),
         Items: roleDetails.items ? roleDetails.items.join("<br>") : "None",
         TeraTypes: roleDetails.teraTypes
@@ -63,7 +103,45 @@ function handleSearch(event) {
     return;
   }
 
-  const filteredResults = allData.filter((row) => {
+  // Command filtering
+  let filteredResults = [];
+
+//  if (searchTerm.startsWith(".")) {
+//    const parts = searchTerm.split(" ");
+//    const command = parts[0];
+//    const query = parts.slice(1).join(" ");
+
+//    filteredResults = allData.filter((row) => {
+  //     switch (command) {
+  //       case ".t":
+  //       case ".type":
+  //         return row.Role.toLowerCase().includes(query);
+  //       case ".r":
+  //       case ".role":
+  //         return row.Role.toLowerCase().startsWith(query);
+  //       case ".a":
+  //       case ".ability":
+  //         return row.Role.toLowerCase().includes(query);
+  //       case ".i":
+  //       case ".item":
+  //         return row.Role.toLowerCase().includes(query);
+  //       case ".e":
+  //       case ".tera":
+  //         return row.Role.toLowerCase().includes(query);
+  //       case ".m":
+  //       case ".move":
+  //         return row.Role.toLowerCase().includes(query);
+  //       default:
+  //         return row.Pokemon.toLowerCase().startsWith(searchTerm);
+  //     }
+  //   });
+  // } else {
+  //   filteredResults = allData.filter((row) => {
+  //     return row.Pokemon.toLowerCase().includes(searchTerm);
+  //   });
+  // }
+
+  filteredResults = allData.filter((row) => {
     const match = (value) =>
       value ? String(value).toLowerCase().includes(searchTerm) : false;
     return (
@@ -86,6 +164,11 @@ function debounce(func, delay) {
       func.apply(null, args);
     }, delay);
   };
+}
+
+// FUNCTION: Round down to nearest whole number
+function roundDown(num) {
+  return Math.floor(num);
 }
 
 // FUNCTION: Generate table for data
