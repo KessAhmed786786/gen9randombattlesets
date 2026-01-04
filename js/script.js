@@ -5,6 +5,7 @@ const allData = [];
 
 // FUNCTION: Fetch and push data into a flattened array
 async function loadAndDisplayData() {
+  allData.length = 0;
   // Fetch the data
   const [setsResponse, statsResponse] = await Promise.all([
     fetch("data/gen9sets.json"),
@@ -105,41 +106,6 @@ function handleSearch(event) {
 
   // Command filtering
   let filteredResults = [];
-
-//  if (searchTerm.startsWith(".")) {
-//    const parts = searchTerm.split(" ");
-//    const command = parts[0];
-//    const query = parts.slice(1).join(" ");
-
-//    filteredResults = allData.filter((row) => {
-  //     switch (command) {
-  //       case ".t":
-  //       case ".type":
-  //         return row.Role.toLowerCase().includes(query);
-  //       case ".r":
-  //       case ".role":
-  //         return row.Role.toLowerCase().startsWith(query);
-  //       case ".a":
-  //       case ".ability":
-  //         return row.Role.toLowerCase().includes(query);
-  //       case ".i":
-  //       case ".item":
-  //         return row.Role.toLowerCase().includes(query);
-  //       case ".e":
-  //       case ".tera":
-  //         return row.Role.toLowerCase().includes(query);
-  //       case ".m":
-  //       case ".move":
-  //         return row.Role.toLowerCase().includes(query);
-  //       default:
-  //         return row.Pokemon.toLowerCase().startsWith(searchTerm);
-  //     }
-  //   });
-  // } else {
-  //   filteredResults = allData.filter((row) => {
-  //     return row.Pokemon.toLowerCase().includes(searchTerm);
-  //   });
-  // }
 
   filteredResults = allData.filter((row) => {
     const match = (value) =>
