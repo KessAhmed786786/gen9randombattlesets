@@ -1,24 +1,15 @@
-// Load and add pokemon to table for pokemon data json
-
-// Global array for searching etc.
 const allData = [];
 
-// FUNCTION: Fetch and push data into a flattened array
 async function loadAndDisplayData() {
   allData.length = 0;
-  // Fetch the data
   const [setsResponse, statsResponse] = await Promise.all([
     fetch("data/gen9sets.json"),
     fetch("data/gen9stats.json"),
   ]);
-
   const setsData = await setsResponse.json();
   const statsData = await statsResponse.json();
-
-  // New empty array for flattened data only
   const flattenedRows = [];
 
-  // Flattening logic
   for (const [pokemonName, details] of Object.entries(setsData)) {
     const baseInfo = statsData[pokemonName] || {
       types: ["Unknown"],
@@ -31,7 +22,6 @@ async function loadAndDisplayData() {
       BST: 0,
     };
     for (const [roleName, roleDetails] of Object.entries(details.roles)) {
-      // Create real values for stats, using level, base stats, evs and ivs
       const baseHP = Number(baseInfo.HP) || 0;
       const baseAttack = Number(baseInfo.Attack) || 0;
       const baseDefense = Number(baseInfo.Defense) || 0;
@@ -42,7 +32,6 @@ async function loadAndDisplayData() {
 
       const evs = roleDetails.evs || {};
       const ivs = roleDetails.ivs || {};
-
       const evHP = Number(evs.hp) || 84;
       const evAttack = evs.atk !== undefined ? Number(evs.atk) : 84;
       const evSpeed = evs.spe !== undefined ? Number(evs.spe) : 84;
@@ -68,24 +57,23 @@ async function loadAndDisplayData() {
         ((2 * baseSpeed + ivSpeed + evSpeed / 4) * levelValue) / 100 + 5
       );
 
-      // Each role per pokemon creates new object for array
       const flatRow = {
         Pokemon: pokemonName,
-        Type: baseInfo.types.join(" | "),
+        Type: baseInfo.types,
         Level: details.level,
-        HP: realHP.toLocaleString(),
-        Attack: realAttack.toLocaleString(),
-        Defense: realDefense.toLocaleString(),
-        SpAtk: realSpAtk.toLocaleString(),
-        SpDef: realSpDef.toLocaleString(),
-        Speed: realSpeed.toLocaleString(),
-        Role: roleName,
-        Abilities: roleDetails.abilities.join("<br>"),
-        Items: roleDetails.items ? roleDetails.items.join("<br>") : "None",
-        TeraTypes: roleDetails.teraTypes
-          ? roleDetails.teraTypes.join("<br>")
-          : "N/A",
-        Moves: roleDetails.moves ? roleDetails.moves.join("<br>") : "N/A",
+        Stats: {
+          HP: realHP,
+          Attack: realAttack,
+          Defense: realDefense,
+          SpAtk: realSpAtk,
+          SpDef: realSpDef,
+          Speed: realSpeed,
+          Role: roleName,
+        },
+        Abilities: roleDetails.abilities,
+        Items: roleDetails.items,
+        TeraTypes: roleDetails.teraTypes,
+        Moves: roleDetails.moves,
       };
       flattenedRows.push(flatRow);
     }
@@ -94,18 +82,55 @@ async function loadAndDisplayData() {
   renderTable(allData);
 }
 
-// FUNCTION: Search functionality
+function renderTable(data) {
+  const headerRow = document.getElementById("headerRow");
+  const tableBody = document.getElementById("tableBody");
+
+  headerRow.innerHTML = "";
+  tableBody.innerHTML = "";
+
+  if (!data || data.length === 0) {
+    const tr = document.createElement("tr");
+    const td = document.createElement("td");
+    td.textContent = "No Pokemon found matching that search";
+    td.setAttribute("colspan", "7");
+    td.style.textAlign = "center";
+    tr.appendChild(td);
+    tableBody.appendChild(tr);
+    return;
+  }
+
+  const headers = Object.keys(data[0]);
+  headers.forEach((headerText) => {
+    const th = document.createElement("th");
+    th.textContent = headerText;
+    headerRow.appendChild(th);
+  });
+
+  data.forEach((item) => {
+    const tr = document.createElement("tr");
+    headers.forEach((header) => {
+      const td = document.createElement("td");
+      if (header === "Pokemon") {
+        td.innerHTML = `<strong>${item[header]}</strong>`;
+      } else {
+        td.innerHTML = item[header];
+      }
+      tr.appendChild(td);
+    });
+    tableBody.appendChild(tr);
+  });
+}
+
 function handleSearch(event) {
   const searchTerm = event.target.value.toLowerCase().trim();
 
-  // If no search then show all data and stop
+  let filteredResults = [];
+
   if (!searchTerm) {
     renderTable(allData);
     return;
   }
-
-  // Command filtering
-  let filteredResults = [];
 
   filteredResults = allData.filter((row) => {
     const match = (value) =>
@@ -121,7 +146,6 @@ function handleSearch(event) {
   renderTable(filteredResults);
 }
 
-// FUNCTION: Debounce to imporove searching
 function debounce(func, delay) {
   let timeoutId;
   return (...args) => {
@@ -132,54 +156,8 @@ function debounce(func, delay) {
   };
 }
 
-// FUNCTION: Round down to nearest whole number
 function roundDown(num) {
   return Math.floor(num);
-}
-
-// FUNCTION: Generate table for data
-function renderTable(data) {
-  const headerRow = document.getElementById("headerRow");
-  const tableBody = document.getElementById("tableBody");
-
-  // Clear existing content
-  headerRow.innerHTML = "";
-  tableBody.innerHTML = "";
-
-  // Safety check, if data is empty don't try to render
-  if (!data || data.length === 0) {
-    const tr = document.createElement("tr");
-    const td = document.createElement("td");
-    td.textContent = "No Pokemon found matching that search";
-    td.setAttribute("colspan", "7");
-    td.style.textAlign = "center";
-    tr.appendChild(td);
-    tableBody.appendChild(tr);
-    return;
-  }
-
-  // Create Headers based on the keys of the first object
-  const headers = Object.keys(data[0]);
-  headers.forEach((headerText) => {
-    const th = document.createElement("th");
-    th.textContent = headerText;
-    headerRow.appendChild(th);
-  });
-
-  // Create Rows
-  data.forEach((item) => {
-    const tr = document.createElement("tr");
-    headers.forEach((header) => {
-      const td = document.createElement("td");
-      if (header === "Pokemon") {
-        td.innerHTML = `<strong>${item[header]}</strong>`;
-      } else {
-        td.innerHTML = item[header];
-      }
-      tr.appendChild(td);
-    });
-    tableBody.appendChild(tr);
-  });
 }
 
 const debouncedSearch = debounce(handleSearch, 100);
