@@ -22,14 +22,7 @@ async function loadAndDisplayData() {
       BST: 0,
     };
     for (const [roleName, roleDetails] of Object.entries(details.roles)) {
-      const baseHP = Number(baseInfo.HP) || 0;
-      const baseAttack = Number(baseInfo.Attack) || 0;
-      const baseDefense = Number(baseInfo.Defense) || 0;
-      const baseSpAtk = Number(baseInfo.SpAtk) || 0;
-      const baseSpDef = Number(baseInfo.SpDef) || 0;
-      const baseSpeed = Number(baseInfo.Speed) || 0;
       const levelValue = Number(details.level) || 0;
-
       const evs = roleDetails.evs || {};
       const ivs = roleDetails.ivs || {};
       const evHP = Number(evs.hp) || 84;
@@ -38,43 +31,29 @@ async function loadAndDisplayData() {
       const ivAttack = ivs.atk !== undefined ? Number(ivs.atk) : 31;
       const ivSpeed = ivs.spe !== undefined ? Number(ivs.spe) : 31;
 
-      const realHP = roundDown(
-        ((2 * baseHP + 31 + evHP / 4) * levelValue) / 100 + levelValue + 10
-      );
-      const realAttack = roundDown(
-        ((2 * baseAttack + ivAttack + evAttack / 4) * levelValue) / 100 + 5
-      );
-      const realDefense = roundDown(
-        ((2 * baseDefense + 31 + 84 / 4) * levelValue) / 100 + 5
-      );
-      const realSpAtk = roundDown(
-        ((2 * baseSpAtk + 31 + 84 / 4) * levelValue) / 100 + 5
-      );
-      const realSpDef = roundDown(
-        ((2 * baseSpDef + 31 + 84 / 4) * levelValue) / 100 + 5
-      );
-      const realSpeed = roundDown(
-        ((2 * baseSpeed + ivSpeed + evSpeed / 4) * levelValue) / 100 + 5
-      );
-
       const flatRow = {
         Pokemon: pokemonName,
         Type: baseInfo.types,
         Level: details.level,
-        Stats: {
-          HP: realHP,
-          Attack: realAttack,
-          Defense: realDefense,
-          SpAtk: realSpAtk,
-          SpDef: realSpDef,
-          Speed: realSpeed,
-          Role: roleName,
-        },
+        //        Stats: {
+        HP: calcStat(baseInfo.HP, 31, evHP, levelValue, true),
+        Attack: calcStat(baseInfo.Attack, ivAttack, evAttack, levelValue, false),
+        Defense: calcStat(baseInfo.Defense, 31, 84, levelValue, false),
+        SpAtk: calcStat(baseInfo.SpAtk, 31, 84, levelValue, false),
+        SpDef: calcStat(baseInfo.SpDef, 31, 84, levelValue, false),
+        Speed: calcStat(baseInfo.Speed, ivSpeed, evSpeed, levelValue, false),
+        Role: roleName,
+        //        },
         Abilities: roleDetails.abilities,
         Items: roleDetails.items,
         TeraTypes: roleDetails.teraTypes,
         Moves: roleDetails.moves,
       };
+
+      const Formatters = {
+        types: (types) => types.map((t) => `<strong>${t}</strong>.join(' '),`),
+      };
+
       flattenedRows.push(flatRow);
     }
   }
@@ -89,14 +68,8 @@ function renderTable(data) {
   headerRow.innerHTML = "";
   tableBody.innerHTML = "";
 
-  if (!data || data.length === 0) {
-    const tr = document.createElement("tr");
-    const td = document.createElement("td");
-    td.textContent = "No Pokemon found matching that search";
-    td.setAttribute("colspan", "7");
-    td.style.textAlign = "center";
-    tr.appendChild(td);
-    tableBody.appendChild(tr);
+  if (!data.length) {
+    tableBody.innerHTML = `<tr><td colspan="7" style="text-align:center">No results found</td></tr>`;
     return;
   }
 
@@ -111,8 +84,8 @@ function renderTable(data) {
     const tr = document.createElement("tr");
     headers.forEach((header) => {
       const td = document.createElement("td");
-      if (header === "Pokemon") {
-        td.innerHTML = `<strong>${item[header]}</strong>`;
+      if (header === "Type") {
+        td.innerHTML = item[header];
       } else {
         td.innerHTML = item[header];
       }
@@ -162,3 +135,10 @@ function roundDown(num) {
 
 const debouncedSearch = debounce(handleSearch, 100);
 loadAndDisplayData();
+
+const calcStat = (base, iv, ev, level, isHP) => {
+  if (isHP) {
+    return Math.floor(((2 * base + iv + ev / 4) * level) / 100 + level + 10);
+  }
+  return Math.floor(((2 * base + iv + ev / 4) * level) / 100 + 5);
+};
