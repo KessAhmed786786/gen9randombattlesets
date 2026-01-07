@@ -1,7 +1,6 @@
 const allData = [];
 
 async function loadAndDisplayData() {
-  allData.length = 0;
   const [setsResponse, statsResponse] = await Promise.all([
     fetch("data/gen9sets.json"),
     fetch("data/gen9stats.json"),
@@ -22,9 +21,10 @@ async function loadAndDisplayData() {
       BST: 0,
     };
     for (const [roleName, roleDetails] of Object.entries(details.roles)) {
-      const levelValue = Number(details.level) || 0;
       const evs = roleDetails.evs || {};
       const ivs = roleDetails.ivs || {};
+
+      const levelValue = Number(details.level) || 0;
       const evHP = Number(evs.hp) || 84;
       const evAttack = evs.atk !== undefined ? Number(evs.atk) : 84;
       const evSpeed = evs.spe !== undefined ? Number(evs.spe) : 84;
@@ -35,43 +35,42 @@ async function loadAndDisplayData() {
         Pokemon: pokemonName,
         Type: baseInfo.types,
         Level: details.level,
-        //        Stats: {
         HP: calcStat(baseInfo.HP, 31, evHP, levelValue, true),
-        Attack: calcStat(baseInfo.Attack, ivAttack, evAttack, levelValue, false),
-        Defense: calcStat(baseInfo.Defense, 31, 84, levelValue, false),
-        SpAtk: calcStat(baseInfo.SpAtk, 31, 84, levelValue, false),
-        SpDef: calcStat(baseInfo.SpDef, 31, 84, levelValue, false),
-        Speed: calcStat(baseInfo.Speed, ivSpeed, evSpeed, levelValue, false),
+        Atk: calcStat(
+          baseInfo.Attack,
+          ivAttack,
+          evAttack,
+          levelValue,
+          false
+        ),
+        Def: calcStat(baseInfo.Defense, 31, 84, levelValue, false),
+        SpA: calcStat(baseInfo.SpAtk, 31, 84, levelValue, false),
+        SpD: calcStat(baseInfo.SpDef, 31, 84, levelValue, false),
+        Spe: calcStat(baseInfo.Speed, ivSpeed, evSpeed, levelValue, false),
         Role: roleName,
-        //        },
         Abilities: roleDetails.abilities,
         Items: roleDetails.items,
         TeraTypes: roleDetails.teraTypes,
         Moves: roleDetails.moves,
       };
-
-      const Formatters = {
-        types: (types) => types.map((t) => `<strong>${t}</strong>.join(' '),`),
-      };
-
       flattenedRows.push(flatRow);
     }
   }
+  allData.length = 0;
   allData.push(...flattenedRows);
+  console.log(allData);
   renderTable(allData);
 }
+
+const formatters = {
+  number: (num) => num.toLocaleString(),
+};
 
 function renderTable(data) {
   const headerRow = document.getElementById("headerRow");
   const tableBody = document.getElementById("tableBody");
-
   headerRow.innerHTML = "";
   tableBody.innerHTML = "";
-
-  if (!data.length) {
-    tableBody.innerHTML = `<tr><td colspan="7" style="text-align:center">No results found</td></tr>`;
-    return;
-  }
 
   const headers = Object.keys(data[0]);
   headers.forEach((headerText) => {
@@ -84,8 +83,8 @@ function renderTable(data) {
     const tr = document.createElement("tr");
     headers.forEach((header) => {
       const td = document.createElement("td");
-      if (header === "Type") {
-        td.innerHTML = item[header];
+      if (header === "Pokemon") {
+        td.innerHTML = `<strong>${item[header]}</strong>`;
       } else {
         td.innerHTML = item[header];
       }
@@ -93,6 +92,11 @@ function renderTable(data) {
     });
     tableBody.appendChild(tr);
   });
+
+  if (!data.length) {
+    tableBody.innerHTML = `<tr><td colspan="7" style="text-align:center">No results found</td></tr>`;
+    return;
+  }
 }
 
 function handleSearch(event) {
@@ -129,16 +133,12 @@ function debounce(func, delay) {
   };
 }
 
-function roundDown(num) {
-  return Math.floor(num);
-}
-
-const debouncedSearch = debounce(handleSearch, 100);
-loadAndDisplayData();
-
 const calcStat = (base, iv, ev, level, isHP) => {
   if (isHP) {
     return Math.floor(((2 * base + iv + ev / 4) * level) / 100 + level + 10);
   }
   return Math.floor(((2 * base + iv + ev / 4) * level) / 100 + 5);
 };
+
+const debouncedSearch = debounce(handleSearch, 100);
+loadAndDisplayData();
