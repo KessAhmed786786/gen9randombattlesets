@@ -1,39 +1,50 @@
 # gen9randombattlesets
 
-# Completed
-- Get All JSON Data Visible
-- 
-
 # Ideas
-- Functionality
-    - Search all pokemon
-    - Filter all pokemon
-    - Sort database, name, stats, level, role
-    - Pin Data, quick view
-        - Quickview
-            - Team weakness and resist
-            - Role overview
-            - Fastest pokemon
+---
 
+Visual
+- Column for pokemon sprites, external spritesheet code
+- Column for item sprites, external spritesheet code
+- Unique CSS styling theme for site, best practices, clean up
+    - Table innerHTML ideas
+    - Header renaming
+    - Seach bar
+    - Filters and  html section
 
-- CSS
-    - PokemonDB Type colors Tera, Typing
-    - Stats auto
-    - Highlight same moves between same pokemon but different sets
+Functions
+- Hover tooltip, abilities, items, moves
+- Filter: type, role
+- Sort: level, stats(hp-spe), 
+- Search: pokemon, role, ability, item, tera, move
 
-- Script
-    - Weakness
-    - Resist type chart
-    - Semi optional, 50/50 abilitiy immunities
-    - Stat convert, evs an ivs factor
+Structural Improvements
+- State Object
+- Component-Based Rendering
 
-- Embed spritesheet, sprite with pokemon
+Next Steps
+- Lock-in functions, auto type effectivness
+- Quiz memorization
+- Generation switching 1-9
+- Calcdex functionality (random battles only)
 
-- Gens 1-9 Databases
+| Pokemon Filter | Move Filter | Item Filter | 
+| Search Bar
+| Filters (Type) (Ability) (Item) (teraType) (Role) (Move) 
+| Lvl | No. Role | Icon Name | Types | Abilities | Roles | Stats (HP - BST) | 
+---
+| Image
+| Types
+| Stats
+    Role
+    Abilities
+    Items
+    Tera Types
+    Moves
 
-- Hover over info
-    - Abilities
-    - Moves
-    - Items
-
-- Random Battle Rules (Later...)
+Search results
+Type (filter)
+Pokmeon-name
+Moves (filter)
+Abilities (filter)
+List of (search-ish element pokmeon)
