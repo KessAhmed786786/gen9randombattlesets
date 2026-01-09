@@ -36,13 +36,7 @@ async function loadAndDisplayData() {
         Type: baseInfo.types,
         Level: details.level,
         HP: calcStat(baseInfo.HP, 31, evHP, levelValue, true),
-        Atk: calcStat(
-          baseInfo.Attack,
-          ivAttack,
-          evAttack,
-          levelValue,
-          false
-        ),
+        Atk: calcStat(baseInfo.Attack, ivAttack, evAttack, levelValue, false),
         Def: calcStat(baseInfo.Defense, 31, 84, levelValue, false),
         SpA: calcStat(baseInfo.SpAtk, 31, 84, levelValue, false),
         SpD: calcStat(baseInfo.SpDef, 31, 84, levelValue, false),
@@ -62,10 +56,6 @@ async function loadAndDisplayData() {
   renderTable(allData);
 }
 
-const formatters = {
-  number: (num) => num.toLocaleString(),
-};
-
 function renderTable(data) {
   const headerRow = document.getElementById("headerRow");
   const tableBody = document.getElementById("tableBody");
@@ -73,24 +63,34 @@ function renderTable(data) {
   tableBody.innerHTML = "";
 
   const headers = Object.keys(data[0]);
-  headers.forEach((headerText) => {
+  headers.forEach((header) => {
     const th = document.createElement("th");
-    th.textContent = headerText;
+    th.textContent = header;
     headerRow.appendChild(th);
   });
 
   data.forEach((item) => {
-    const tr = document.createElement("tr");
+    const row = document.createElement("tr");
     headers.forEach((header) => {
       const td = document.createElement("td");
       if (header === "Pokemon") {
-        td.innerHTML = `<strong>${item[header]}</strong>`;
+        td.innerHTML = Formatters.bold(item.Pokemon);
+      } else if (header === "Type") {
+        td.innerHTML = Formatters.types(item.Type);
+      } else if (header === "TeraTypes") {
+        td.innerHTML = Formatters.tera(item.TeraTypes);
+      } else if (header === "Abilities") {
+        td.innerHTML = Formatters.list(item.Abilities);
+      } else if (header === "Items") {
+        td.innerHTML = Formatters.list(item.Items);
+      } else if (header === "Moves") {
+        td.innerHTML = Formatters.list(item.Moves);
       } else {
         td.innerHTML = item[header];
       }
-      tr.appendChild(td);
+      row.appendChild(td);
     });
-    tableBody.appendChild(tr);
+    tableBody.appendChild(row);
   });
 
   if (!data.length) {
@@ -98,6 +98,33 @@ function renderTable(data) {
     return;
   }
 }
+
+const Formatters = {
+  bold: (bold) => {
+    return `<span class="pokemon-pill">${bold}</span>`
+  },
+  types: (typesArray) => {
+    return typesArray
+      .map((type) => {
+        return `<span class="type-pill ${type.toLowerCase()}">${type}</span>`;
+      })
+      .join("");
+  },
+  tera: (teraArray) => {
+    return teraArray
+      .map((tera) => {
+        return `<span class="tera-pill ${tera.toLowerCase()}">${tera}</span>`;
+      })
+      .join("<br>");
+  },
+  number: (num) => num.toLocalString(),
+  list: (listArray) => {
+    return listArray.map((item) => {
+      return `<span> - ${item}</span>`;
+    })
+    .join("<br>");
+  }
+};
 
 function handleSearch(event) {
   const searchTerm = event.target.value.toLowerCase().trim();
