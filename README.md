@@ -59,3 +59,11 @@ perf,A code change that improves performance.
 test,Adding missing tests or correcting existing tests.
 chore,"Updating build tasks, package manager configs, etc."
 ci,Changes to CI configuration files and scripts.
+
+
+Ideas List
+
+https://dex.pokemonshowdown.com/
+https://www.smogon.com/dex/sv/pokemon/
+https://pokemondb.net/
+https://munchstats.com/
