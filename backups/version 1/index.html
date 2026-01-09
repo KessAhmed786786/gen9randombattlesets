@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Pokemon Gen 9 Random Battle Sets</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <h1>Pokemon Gen 9 Random Battle Sets</h1>
+    <div class="function-container">
+      <input type="text" placeholder="Search..." oninput="debouncedSearch(event)">
+    </div>
+    <div class="table-container">
+      <table id="pokemonTable">
+        <thead>
+          <tr id="headerRow"></tr>
+        </thead>
+        <tbody id="tableBody"></tbody>
+      </table>
+    </div>
+    <script src="js/script.js"></script>
+  </body>
+</html>

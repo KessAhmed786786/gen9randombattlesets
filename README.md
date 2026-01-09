@@ -48,3 +48,14 @@ Pokmeon-name
 Moves (filter)
 Abilities (filter)
 List of (search-ish element pokmeon)
+
+---
+feat,A new feature for the user.
+fix,A bug fix for the user.
+docs,"Changes to documentation (README, comments)."
+style,"Formatting, missing semi-colons, etc. (no code changes)."
+refactor,Refactoring code that neither fixes a bug nor adds a feature.
+perf,A code change that improves performance.
+test,Adding missing tests or correcting existing tests.
+chore,"Updating build tasks, package manager configs, etc."
+ci,Changes to CI configuration files and scripts.
